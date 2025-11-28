@@ -1,0 +1,6 @@
+crawl4ai
+pyyaml
+fastapi
+uvicorn
+pydantic
+psycopg2-binary
