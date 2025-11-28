@@ -20,6 +20,12 @@ import json
 from datetime import datetime
 from pathlib import Path
 from typing import Any, Dict, Iterable
+import sys
+
+# Ensure project root is on sys.path so that "preprocessing" and "db" can be imported
+ROOT = Path(__file__).resolve().parents[1]
+if str(ROOT) not in sys.path:
+    sys.path.insert(0, str(ROOT))
 
 from preprocessing.cleaners import basic_clean
 from db.postgres_client import upsert_article

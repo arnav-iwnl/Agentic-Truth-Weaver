@@ -13,24 +13,25 @@ for inserting/updating Hindi news articles in the `news_articles` table.
 from __future__ import annotations
 
 import os
+import sys
 from typing import Any, Dict
 
 import psycopg2
 import psycopg2.extras
 
 
+conn_str="postgresql://neondb_owner:npg_pPJFUM6zR7sw@ep-bitter-sound-ahns3ih8-pooler.c-3.us-east-1.aws.neon.tech/neondb?sslmode=require&channel_binding=require"
+
 def get_conn():
     """Create a new PostgreSQL connection using env vars.
 
     Callers are responsible for closing the connection.
     """
-    return psycopg2.connect(
-        host=os.getenv("PGHOST", "localhost"),
-        port=int(os.getenv("PGPORT", "5432")),
-        user=os.getenv("PGUSER", "postgres"),
-        password=os.getenv("PGPASSWORD", ""),
-        dbname=os.getenv("PGDATABASE", "news"),
-    )
+    if not conn_str:
+      raise ValueError("DATABASE_URL environment variable is not set")
+
+    # Return the connection object using the connection string
+    return psycopg2.connect(conn_str)
 
 
 def upsert_article(doc: Dict[str, Any]) -> None:
@@ -65,6 +66,24 @@ def upsert_article(doc: Dict[str, Any]) -> None:
     try:
         with conn:
             with conn.cursor() as cur:
+                # Ensure the table exists before inserting.
+                cur.execute(
+                    """
+                    CREATE TABLE IF NOT EXISTS news_articles (
+                      id           BIGSERIAL PRIMARY KEY,
+                      site         TEXT        NOT NULL,
+                      category     TEXT        NOT NULL,
+                      url          TEXT        NOT NULL UNIQUE,
+                      title        TEXT,
+                      lang         TEXT        NOT NULL,
+                      content_hi   TEXT        NOT NULL,
+                      scraped_at   TIMESTAMPTZ NOT NULL,
+                      published_at TIMESTAMPTZ,
+                      meta         JSONB
+                    );
+                    """
+                )
+
                 cur.execute(
                     """
                     INSERT INTO news_articles

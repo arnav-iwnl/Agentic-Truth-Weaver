@@ -5,15 +5,16 @@ from retrieval.retriever import from_config as retriever_from_config
 
 
 def run_rag(query: str, config: Dict[str, Any]) -> Dict[str, Any]:
-    """Simple RAG runner stub.
+    """Simple RAG runner.
 
     Steps:
-      1. Use retriever to fetch context docs.
-      2. Call LLM with query + context (omitted here).
+      1. Use retriever to fetch context docs (from Pinecone).
+      2. Call LLM with query + context (still stubbed for now).
     """
     retriever = retriever_from_config(config.get("retrieval", {}))
     contexts = retriever.query(query, top_k=config.get("top_k", 5))
-    # TODO: integrate with an LLM; for now just echo the query and contexts size.
+
+    # TODO: integrate with an actual LLM using the retrieved contexts.
     return {
         "query": query,
         "contexts": contexts,
