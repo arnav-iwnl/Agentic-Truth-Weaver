@@ -20,7 +20,7 @@ import psycopg2
 import psycopg2.extras
 
 
-conn_str="postgresql://neondb_owner:npg_pPJFUM6zR7sw@ep-bitter-sound-ahns3ih8-pooler.c-3.us-east-1.aws.neon.tech/neondb?sslmode=require&channel_binding=require"
+conn_str="postgresql://neondb_owner:npg_Ubtzraui1md3@ep-green-voice-ahg6uf1x-pooler.c-3.us-east-1.aws.neon.tech/neondb?sslmode=require&channel_binding=require"
 
 def get_conn():
     """Create a new PostgreSQL connection using env vars.

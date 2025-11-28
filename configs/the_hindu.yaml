@@ -1,0 +1,17 @@
+# Configuration for The Hindu RSS-based crawler
+# Used by crawlers/the_hindu/crawl.py via run(config_path).
+
+feeds:
+  india: https://www.thehindu.com/news/national/feeder/default.rss
+  world: https://www.thehindu.com/news/international/feeder/default.rss
+
+# Root directories for crawler outputs; per-section subdirectories
+# (e.g., india, world) will be created automatically.
+base_output_dir: hindu_pages_by_section
+base_meta_dir: hindu_meta_by_section
+
+# Optional tuning parameters
+concurrency_pages: 6
+max_retries: 3
+base_backoff: 1.0
+feed_preview_chars: 800

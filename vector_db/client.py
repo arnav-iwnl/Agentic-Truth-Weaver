@@ -17,7 +17,7 @@ from typing import List, Dict, Any
 
 from pinecone import Pinecone, ServerlessSpec
 
-API_KEY = "pcsk_E3uNY_FKzFJvfXNgsXKLdbsWa3vbVfaBv7F5Q6F6zTMHfrn3osgRTgXQEDmtFMJCdCnmC"
+API_KEY = "pcsk_33d7Bz_5r7H2hrvUGd34qamcUvVaS7edLacqoWZByGzNnn4N8hYRBRVXRG5227mFBZ9cUH"
 
 class VectorDBClient:
     """Thin wrapper around a Pinecone index.

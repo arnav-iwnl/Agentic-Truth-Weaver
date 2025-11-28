@@ -17,8 +17,17 @@ This script:
   4. Upserts chunk vectors + metadata into Pinecone via ``vector_db.client``.
 """
 from __future__ import annotations
-
+    
 from typing import Any, Dict, List
+from pathlib import Path
+import sys
+
+# Ensure project root is on sys.path so that the local "db", "preprocessing",
+# "embeddings", and "vector_db" packages are imported instead of similarly
+# named third-party packages when this file is executed as a script.
+ROOT = Path(__file__).resolve().parents[1]
+if str(ROOT) not in sys.path:
+    sys.path.insert(0, str(ROOT))
 
 from db.postgres_client import get_conn
 from preprocessing.chunking import chunk_document

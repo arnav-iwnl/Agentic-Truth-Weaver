@@ -10,3 +10,9 @@ sites:
     config_path: configs/aaj_tak.yaml
     crawler_module: crawlers.aaj_tak.crawl
     schedule: "*/30 * * * *"  # every 30 minutes (example)
+
+  the_hindu:
+    enabled: true
+    config_path: configs/the_hindu.yaml
+    crawler_module: crawlers.the_hindu.crawl
+    schedule: "*/30 * * * *"  # every 30 minutes (example)
