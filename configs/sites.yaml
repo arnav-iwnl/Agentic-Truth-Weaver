@@ -4,3 +4,9 @@ sites:
     config_path: configs/example_site.yaml
     crawler_module: crawlers.example_site.crawl
     schedule: "0 * * * *"  # every hour
+
+  aaj_tak:
+    enabled: true
+    config_path: configs/aaj_tak.yaml
+    crawler_module: crawlers.aaj_tak.crawl
+    schedule: "*/30 * * * *"  # every 30 minutes (example)

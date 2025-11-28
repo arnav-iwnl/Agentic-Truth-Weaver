@@ -1,0 +1,9 @@
+site_name: aaj_tak
+sitemap_url: https://www.aajtak.in/rssfeeds/news-sitemap.xml
+# Root directories; per-category subdirectories will be created automatically.
+output_raw_dir: data/raw/aaj_tak
+output_meta_dir: data/raw_meta/aaj_tak
+# Optional tuning parameters
+concurrency: 4
+max_retries: 3
+base_backoff: 1.0
