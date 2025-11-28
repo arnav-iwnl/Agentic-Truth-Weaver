@@ -1,0 +1,8 @@
+site_name: example_site
+base_url: https://example.com
+crawl_patterns:
+  - /news/*
+  - /articles/*
+max_pages: 100
+output_raw_dir: data/raw/example_site
+output_meta_dir: data/raw_meta/example_site

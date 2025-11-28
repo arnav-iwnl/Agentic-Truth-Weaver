@@ -1,0 +1,6 @@
+sites:
+  example_site:
+    enabled: true
+    config_path: configs/example_site.yaml
+    crawler_module: crawlers.example_site.crawl
+    schedule: "0 * * * *"  # every hour
