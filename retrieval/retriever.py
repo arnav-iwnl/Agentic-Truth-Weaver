@@ -3,6 +3,7 @@
 This implementation uses Pinecone as the backing vector DB and the shared
 ``embeddings.embedder.embed_texts`` function to embed queries.
 """
+import os
 from __future__ import annotations
 
 from typing import List, Dict, Any
@@ -11,7 +12,7 @@ from embeddings.embedder import embed_texts
 from pinecone import Pinecone
 
 
-API_KEY = "pcsk_E3uNY_FKzFJvfXNgsXKLdbsWa3vbVfaBv7F5Q6F6zTMHfrn3osgRTgXQEDmtFMJCdCnmC"
+API_KEY = os.getenv("PINECONE_API_KEY")
 
 class Retriever:
     def __init__(self, config: Dict[str, Any]):
