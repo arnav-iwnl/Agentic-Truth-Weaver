@@ -14,10 +14,12 @@ from __future__ import annotations
 
 import os
 from typing import List, Dict, Any
+from dotenv import load_dotenv
 
 from pinecone import Pinecone, ServerlessSpec
+load_dotenv()
 
-PINECONE_API_KEY = os.getenv("PINECONE_API_KEY")
+PINECONE_API_KEY = os.getenv("PINECONE_API_KEY","pcsk_E3uNY_FKzFJvfXNgsXKLdbsWa3vbVfaBv7F5Q6F6zTMHfrn3osgRTgXQEDmtFMJCdCnmC")
 
 class VectorDBClient:
     """Thin wrapper around a Pinecone index.

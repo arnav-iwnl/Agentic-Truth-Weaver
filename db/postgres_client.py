@@ -11,13 +11,15 @@ This module exposes `get_conn()` for obtaining a connection and `upsert_article(
 for inserting/updating Hindi news articles in the `news_articles` table.
 """
 from __future__ import annotations
+from dotenv import load_dotenv
 
 import os
-import sys
 from typing import Any, Dict
 
 import psycopg2
 import psycopg2.extras
+
+load_dotenv()
 
 
 conn_str = os.getenv("DATABASE_URL")

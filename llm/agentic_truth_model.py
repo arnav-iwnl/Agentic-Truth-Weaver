@@ -17,7 +17,9 @@ import os
 from typing import Any, Dict, List
 
 import google.generativeai as genai
+from dotenv import load_dotenv
 
+load_dotenv()
 
 _MODEL_NAME = os.getenv("GEMINI_MODEL_NAME", "models/gemini-2.5-pro")
 
@@ -68,18 +70,20 @@ def _call_gemini_json(prompt: str) -> Dict[str, Any]:
     _ensure_configured()
     model = genai.GenerativeModel(_MODEL_NAME)
     resp = model.generate_content(prompt)
-    text = (resp.text or "").strip()
-    # Try to locate a JSON object in the response.
+    text = (getattr(resp, "text", "") or "").strip()
+
     try:
-        # Some models may wrap JSON in markdown fences; strip common wrappers.
+        # Strip common markdown code fences
         if text.startswith("```"):
-            # Remove first and last fenced code block markers.
-            text = text.strip("`")
-            # In worst case, just find the first "{" and last "}".
+            # remove leading and trailing fences in a simple way
+            text = text.strip().lstrip("`").rstrip("`").strip()
+
+        # Extract the first JSON object if there's extra text
         if "{" in text and "}" in text:
             start = text.find("{")
             end = text.rfind("}") + 1
             text = text[start:end]
+
         return json.loads(text)
     except Exception:
         return {"_error": "Failed to parse Gemini JSON response", "raw": text}
@@ -115,13 +119,13 @@ Tasks:
 4. Cite which DOC indices (e.g., 1, 3) most strongly support your decision.
 
 Respond in STRICT JSON (no extra text):
-{
+{{
   "verdict": "FACT|MYTH|MIXED|UNCERTAIN",
   "truth_likelihood": 0.0,
   "short_answer": "one or two sentence summary for end users",
   "reasoning": "brief technical reasoning for power users",
   "supporting_docs": [1]
-}
+}}
 '''
     data = _call_gemini_json(prompt)
 
@@ -139,7 +143,9 @@ Respond in STRICT JSON (no extra text):
     }
 
 
-def _narrative_divergence_analysis(query: str, contexts: List[Dict[str, Any]]) -> Dict[str, Any]:
+def _narrative_divergence_analysis(
+    query: str, contexts: List[Dict[str, Any]]
+) -> Dict[str, Any]:
     context_summary = _build_context_summary(contexts)
     prompt = f'''
 You are a media analyst detecting narrative spin and emotional manipulation.
@@ -159,19 +165,19 @@ Steps:
    or clickbait-style sensationalism.
 
 Output STRICT JSON:
-{
+{{
   "baseline_summary": "neutral baseline summary based on context docs",
   "divergence_level": "LOW|MEDIUM|HIGH",
   "divergence_score_1_to_10": 1,
   "emotional_tone": ["fear", "anger"],
   "loaded_phrases": [
-    {
+    {{
       "phrase": "string",
       "category": "fear|anger|urgency|sensationalism",
       "explanation": "why it is manipulative or divergent"
-    }
+    }}
   ]
-}
+}}
 '''
     data = _call_gemini_json(prompt)
 
@@ -205,11 +211,12 @@ def _semantic_drift_analysis(query: str, contexts: List[Dict[str, Any]]) -> Dict
         if not title:
             continue
         site = meta.get("site", "unknown")
-        # Best-effort language guess based on site or script is delegated to Gemini.
-        variants.append({
-            "site": site,
-            "title": title,
-        })
+        variants.append(
+            {
+                "site": site,
+                "title": title,
+            }
+        )
 
     prompt = f'''
 You are a multilingual fact-checking assistant that detects SEMANTIC DRIFT.
@@ -239,11 +246,11 @@ Tasks:
 4. Highlight specific words/phrases in the original variant that cause drift.
 
 Output STRICT JSON:
-{
+{{
   "overall_drift_score_1_to_10": 1,
   "overall_drift_level": "LOW|MEDIUM|HIGH",
   "per_variant": [
-    {
+    {{
       "site": "string",
       "original_title": "string",
       "language": "hi|en|...",
@@ -251,15 +258,15 @@ Output STRICT JSON:
       "drift_type": "PRESERVED|WEAKENED|STRENGTHENED|ALTERED",
       "drift_score_1_to_10": 1,
       "drift_phrases": [
-        {
+        {{
           "original_phrase": "string",
           "translated_phrase_en": "string",
           "explanation": "how it changes meaning"
-        }
+        }}
       ]
-    }
+    }}
   ]
-}
+}}
 '''
     data = _call_gemini_json(prompt)
 
@@ -297,7 +304,6 @@ def _compute_dti_for_contexts(contexts: List[Dict[str, Any]]) -> Dict[str, Any]:
         meta = ctx.get("metadata", {}) or {}
         site = meta.get("site", "unknown")
         if site not in site_scores:
-            # Default mid-level trust if unknown.
             site_scores[site] = []
         prior = base_reputation.get(site, 5)
         site_scores[site].append(prior)

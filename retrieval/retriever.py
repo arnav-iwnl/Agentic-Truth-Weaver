@@ -1,16 +1,22 @@
+'''Retrieval layer: perform vector search and return context documents.
+|
+|This implementation uses Pinecone as the backing vector DB and the shared
+|``embeddings.embedder.embed_texts`` function to embed queries.
+|"""
 """Retrieval layer: perform vector search and return context documents.
 
-This implementation uses Pinecone as the backing vector DB and the shared
-``embeddings.embedder.embed_texts`` function to embed queries.
-"""
-import os
+
+'''
 from __future__ import annotations
 
+import os
 from typing import List, Dict, Any
 
 from embeddings.embedder import embed_texts
 from pinecone import Pinecone
 
+from dotenv import load_dotenv
+load_dotenv()
 
 API_KEY = os.getenv("PINECONE_API_KEY")
 
