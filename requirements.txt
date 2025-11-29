@@ -8,4 +8,4 @@ uvicorn
 pydantic
 psycopg2-binary
 google-generativeai
-pinecone-client
+pinecone

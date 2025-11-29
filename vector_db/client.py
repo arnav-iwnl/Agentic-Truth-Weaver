@@ -17,7 +17,7 @@ from typing import List, Dict, Any
 
 from pinecone import Pinecone, ServerlessSpec
 
-API_KEY = "pcsk_33d7Bz_5r7H2hrvUGd34qamcUvVaS7edLacqoWZByGzNnn4N8hYRBRVXRG5227mFBZ9cUH"
+PINECONE_API_KEY = os.getenv("PINECONE_API_KEY")
 
 class VectorDBClient:
     """Thin wrapper around a Pinecone index.
@@ -27,14 +27,14 @@ class VectorDBClient:
     """
 
     def __init__(self, config: Dict[str, Any]):
-        api_key = API_KEY
-        if not api_key:
+        API_KEY = PINECONE_API_KEY
+        if not  API_KEY:
             raise ValueError(
                 "Pinecone API key is required; set PINECONE_API_KEY env var or "
                 "provide config['api_key']."
             )
 
-        self._pc = Pinecone(api_key=api_key)
+        self._pc = Pinecone(api_key=API_KEY)
 
         self.index_name: str = config.get("index_name", "news-embeddings")
         metric: str = config.get("metric", "cosine")
