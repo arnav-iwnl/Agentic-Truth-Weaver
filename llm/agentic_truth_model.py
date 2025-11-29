@@ -1,19 +1,14 @@
-"""Agentic truth-assessment model built on top of Gemini and Pinecone RAG.
-
-This module takes a user query + retrieved contexts and returns a rich
-fact-checking payload including:
-  - fact/myth classification
-  - 1–10 truth likelihood score
-  - narrative divergence analysis
-  - semantic drift analysis
-  - dynamic trust index (DTI) per source
-
-Gemini API key must be provided via the GEMINI_API_KEY environment variable.
 """
-from __future__ import annotations
+Agentic truth-assessment model with Hybrid-RAG:
+- Uses retrieved Pinecone metadata (titles, sites, categories)
+- If evidence is irrelevant → fall back to Gemini’s internal knowledge
+- Strict JSON, no hallucinations
+- Fact check, narrative divergence, semantic drift, and DTI
+"""
 
-import json
+from __future__ import annotations
 import os
+import json
 from typing import Any, Dict, List
 
 import google.generativeai as genai
@@ -24,167 +19,191 @@ load_dotenv()
 _MODEL_NAME = os.getenv("GEMINI_MODEL_NAME", "models/gemini-2.5-pro")
 
 
-def _ensure_configured() -> None:
-    """Configure the Gemini client once.
-
-    Safe to call multiple times.
-    """
+# ----------------------------------------------------
+# GEMINI CLIENT
+# ----------------------------------------------------
+def _ensure_configured():
     api_key = os.getenv("GEMINI_API_KEY")
     if not api_key:
-        raise RuntimeError(
-            "GEMINI_API_KEY environment variable is required to use the agentic model."
-        )
+        raise RuntimeError("GEMINI_API_KEY is missing.")
     genai.configure(api_key=api_key)
 
 
-def _build_context_summary(contexts: List[Dict[str, Any]]) -> str:
-    """Turn Pinecone matches into a compact, LLM-friendly summary string."""
-    lines: List[str] = []
+# ----------------------------------------------------
+# ROBUST JSON PARSER
+# ----------------------------------------------------
+def _extract_json(raw: str) -> Dict[str, Any]:
+    raw = raw.strip()
+
+    # strip code fences
+    if raw.startswith("```"):
+        raw = raw.strip("`").strip()
+
+    # extract first JSON object
+    if "{" in raw and "}" in raw:
+        raw = raw[raw.find("{") : raw.rfind("}") + 1]
+
+    try:
+        return json.loads(raw)
+    except Exception:
+        return {"_error": "JSON_PARSE_ERROR", "raw": raw}
+
+
+def _call_gemini_json(prompt: str) -> Dict[str, Any]:
+    _ensure_configured()
+    model = genai.GenerativeModel(_MODEL_NAME)
+    resp = model.generate_content(prompt)
+    text = getattr(resp, "text", "") or ""
+    return _extract_json(text)
+
+
+# ----------------------------------------------------
+# SCORING
+# ----------------------------------------------------
+def _truth_score_1_to_10(v: float) -> int:
+    v = max(0.0, min(1.0, float(v)))
+    return int(round(1 + v * 9))
+
+
+# ----------------------------------------------------
+# HELPERS
+# ----------------------------------------------------
+def _summarize_contexts(contexts: List[Dict[str, Any]]) -> str:
+    """
+    Converts Pinecone metadata-only contexts into a compact summary.
+    """
+    lines = []
     for i, ctx in enumerate(contexts, start=1):
-        meta = ctx.get("metadata", {}) or {}
-        title = meta.get("title", "")
-        site = meta.get("site", "unknown")
-        category = meta.get("category") or meta.get("section") or "unknown"
-        url = meta.get("url", "")
-        ts = meta.get("timestamp", "")
-        parts = [
-            f"DOC {i}",
-            f"site={site}",
-            f"category={category}",
-        ]
-        if ts:
-            parts.append(f"timestamp={ts}")
+        m = ctx.get("metadata", {})
+        title = m.get("title", "n/a")
+        site = m.get("site", "unknown")
+        category = m.get("category") or "unknown"
+        timestamp = m.get("timestamp", "")
+        url = m.get("url", "")
+
+        parts = [f"DOC {i}", f"site={site}", f"category={category}"]
+        if timestamp:
+            parts.append(f"timestamp={timestamp}")
         if title:
             parts.append(f"title={title}")
         if url:
             parts.append(f"url={url}")
+
         lines.append(" | ".join(parts))
+
     return "\n".join(lines)
 
 
-def _call_gemini_json(prompt: str) -> Dict[str, Any]:
-    """Call Gemini and parse a strict-JSON response.
-
-    On parsing failure, returns a minimal error payload instead of raising.
-    """
-    _ensure_configured()
-    model = genai.GenerativeModel(_MODEL_NAME)
-    resp = model.generate_content(prompt)
-    text = (getattr(resp, "text", "") or "").strip()
-
-    try:
-        # Strip common markdown code fences
-        if text.startswith("```"):
-            # remove leading and trailing fences in a simple way
-            text = text.strip().lstrip("`").rstrip("`").strip()
-
-        # Extract the first JSON object if there's extra text
-        if "{" in text and "}" in text:
-            start = text.find("{")
-            end = text.rfind("}") + 1
-            text = text[start:end]
-
-        return json.loads(text)
-    except Exception:
-        return {"_error": "Failed to parse Gemini JSON response", "raw": text}
-
-
-def _truth_score_1_to_10(truth_likelihood: float) -> int:
-    """Map [0.0, 1.0] truth likelihood to integer 1–10.
-
-    0.0 -> 1 (definitely myth), 1.0 -> 10 (definitely fact).
-    """
-    tl = max(0.0, min(1.0, float(truth_likelihood)))
-    return int(round(1 + tl * 9))
-
-
+# ----------------------------------------------------
+# FACT-CHECK ANALYSIS (Hybrid RAG)
+# ----------------------------------------------------
 def _fact_check_analysis(query: str, contexts: List[Dict[str, Any]]) -> Dict[str, Any]:
-    context_summary = _build_context_summary(contexts)
-    prompt = f'''
-You are a rigorous fact-checking AI working with a trusted-news retrieval system.
+    context_summary = _summarize_contexts(contexts)
 
-User query / claim:
-"""{query}"""
+    prompt = f"""
+You are an elite fact-checking AI.
 
-Retrieved evidence (each DOC is from a trusted or semi-trusted news source):
+You receive:
+1. A user claim.
+2. Retrieved evidence from a news vector database.
+   • Evidence may be irrelevant or mismatched.
+3. If evidence is relevant → rely primarily on it.
+4. If evidence is irrelevant → fall back to your own general world knowledge.
+5. NEVER hallucinate — if unsure, mark as UNCERTAIN.
+
+USER QUERY:
+\"\"\"{query}\"\"\"
+
+RETRIEVED EVIDENCE (metadata only):
 {context_summary}
 
-Tasks:
-1. Decide whether the *main claim implied by the query* is overall FACT, MYTH, MIXED, or UNCERTAIN.
-2. Provide a continuous truth_likelihood in [0, 1], where:
-   - 0   = definitely false / myth
-   - 0.5 = unclear or mixed
-   - 1   = definitely true / fact
-3. Provide a short, user-facing answer summarizing the factual situation.
-4. Cite which DOC indices (e.g., 1, 3) most strongly support your decision.
+TASKS:
+1. Detect if retrieved evidence is relevant to the claim.
+2. Extract the main factual claim implied by the query.
+3. If relevant evidence exists:
+     - Compare the claim to the evidence.
+     - Determine if it is supported or contradicted.
+4. If evidence is irrelevant:
+     - State irrelevance.
+     - Fall back to general knowledge to evaluate the claim.
+5. Produce:
+     - verdict: FACT / MYTH / MIXED / UNCERTAIN
+     - truth_likelihood: 0–1
+     - short_answer: very brief factual reply
+     - reasoning: explain relevance & logic
+     - supporting_docs: which DOC indices were used (empty if irrelevant)
 
-Respond in STRICT JSON (no extra text):
+STRICT JSON ONLY:
 {{
+  "relevance": "RELEVANT|IRRELEVANT",
+  "claim_extracted": "",
   "verdict": "FACT|MYTH|MIXED|UNCERTAIN",
   "truth_likelihood": 0.0,
-  "short_answer": "one or two sentence summary for end users",
-  "reasoning": "brief technical reasoning for power users",
-  "supporting_docs": [1]
+  "short_answer": "",
+  "reasoning": "",
+  "supporting_docs": []
 }}
-'''
+"""
+
     data = _call_gemini_json(prompt)
 
     verdict = data.get("verdict", "UNCERTAIN")
-    truth_likelihood = float(data.get("truth_likelihood", 0.5) or 0.5)
-    score_1_to_10 = _truth_score_1_to_10(truth_likelihood)
+    likelihood = float(data.get("truth_likelihood", 0.5))
+    score10 = _truth_score_1_to_10(likelihood)
 
     return {
         "verdict": verdict,
-        "truth_likelihood": truth_likelihood,
-        "truth_score_1_to_10": score_1_to_10,
+        "truth_likelihood": likelihood,
+        "truth_score_1_to_10": score10,
         "short_answer": data.get("short_answer", ""),
         "reasoning": data.get("reasoning", ""),
         "supporting_docs": data.get("supporting_docs", []),
+        "relevance": data.get("relevance", "UNKNOWN"),
     }
 
 
-def _narrative_divergence_analysis(
-    query: str, contexts: List[Dict[str, Any]]
-) -> Dict[str, Any]:
-    context_summary = _build_context_summary(contexts)
-    prompt = f'''
-You are a media analyst detecting narrative spin and emotional manipulation.
+# ----------------------------------------------------
+# NARRATIVE DIVERGENCE ANALYSIS
+# ----------------------------------------------------
+def _narrative_divergence_analysis(query: str, contexts: List[Dict[str, Any]]) -> Dict[str, Any]:
+    context_summary = _summarize_contexts(contexts)
 
-User text (what the user is asking or claiming):
-"""{query}"""
+    prompt = f"""
+You measure narrative divergence between USER TEXT and factual evidence.
 
-Trusted-source context (titles, sites, and metadata only):
+USER TEXT:
+\"\"\"{query}\"\"\"
+
+EVIDENCE (metadata only):
 {context_summary}
 
-Steps:
-1. Infer a neutral, factual baseline about the topic using ONLY the context summary
-   (treat these as calm, neutral news-style descriptions).
-2. Compare the emotional tone, loaded language, and framing of the USER TEXT
-   against that neutral baseline.
-3. Identify any signs of fear-mongering, anger-incitement, exaggerated urgency,
-   or clickbait-style sensationalism.
+TASKS:
+1. Infer a factual baseline ONLY from context metadata.
+2. Compare user tone vs. evidence tone.
+3. Identify exaggeration, fear, urgency, or sensationalism.
+4. Even if evidence is irrelevant, still evaluate the tone divergence.
 
-Output STRICT JSON:
+STRICT JSON:
 {{
-  "baseline_summary": "neutral baseline summary based on context docs",
+  "baseline_summary": "",
   "divergence_level": "LOW|MEDIUM|HIGH",
   "divergence_score_1_to_10": 1,
-  "emotional_tone": ["fear", "anger"],
+  "emotional_tone": [],
   "loaded_phrases": [
     {{
-      "phrase": "string",
-      "category": "fear|anger|urgency|sensationalism",
-      "explanation": "why it is manipulative or divergent"
+      "phrase": "",
+      "category": "",
+      "explanation": ""
     }}
   ]
 }}
-'''
+"""
+
     data = _call_gemini_json(prompt)
 
     level = data.get("divergence_level", "LOW")
-    score_raw = data.get("divergence_score_1_to_10", 1)
     try:
-        score = int(score_raw)
+        score = int(data.get("divergence_score_1_to_10", 1))
     except Exception:
         score = 1
     score = max(1, min(10, score))
@@ -198,160 +217,118 @@ Output STRICT JSON:
     }
 
 
+# ----------------------------------------------------
+# SEMANTIC DRIFT ANALYSIS
+# ----------------------------------------------------
 def _semantic_drift_analysis(query: str, contexts: List[Dict[str, Any]]) -> Dict[str, Any]:
-    """Detect potential semantic drift across languages or outlets.
-
-    We only have metadata (titles, sites). We treat each context title as a
-    possible language- or framing-variant of the same underlying topic.
-    """
-    variants: List[Dict[str, Any]] = []
+    variants = []
     for ctx in contexts:
-        meta = ctx.get("metadata", {}) or {}
-        title = meta.get("title")
-        if not title:
-            continue
-        site = meta.get("site", "unknown")
-        variants.append(
-            {
-                "site": site,
-                "title": title,
-            }
-        )
+        m = ctx.get("metadata", {})
+        title = m.get("title")
+        if title:
+            variants.append({"site": m.get("site", "unknown"), "title": title})
 
-    prompt = f'''
-You are a multilingual fact-checking assistant that detects SEMANTIC DRIFT.
+    prompt = f"""
+You detect SEMANTIC DRIFT between USER QUERY and retrieved news titles.
 
-User query (original text):
-"""{query}"""
+USER QUERY:
+\"\"\"{query}\"\"\"
 
-Below are news titles from various outlets that are presumably about a
-similar topic. Some may be in different languages or use different framing.
-
-VARIANTS:
+VARIANT TITLES:
 {json.dumps(variants, ensure_ascii=False)}
 
-Tasks:
-1. For each variant title, infer which language it is in and translate it
-   into English.
-2. Compare the meaning of each variant against the main intent of the
-   USER QUERY. Decide if the meaning is:
-   - "PRESERVED" (no meaningful change)
-   - "WEAKENED" (downplaying danger/impact)
-   - "STRENGTHENED" (exaggerating danger/impact)
-   - "ALTERED" (introduces a different claim)
-3. Assign a drift_score_1_to_10, where:
-   - 1  = no drift at all
-   - 5  = noticeable but moderate drift
-   - 10 = severe distortion of meaning
-4. Highlight specific words/phrases in the original variant that cause drift.
+TASKS:
+1. Detect the language of each title.
+2. Translate each to English.
+3. Compare meaning against USER QUERY.
+4. Classify drift as:
+   PRESERVED / WEAKENED / STRENGTHENED / ALTERED
+5. Assign drift score 1–10.
+6. Identify phrases causing drift.
 
-Output STRICT JSON:
+STRICT JSON:
 {{
   "overall_drift_score_1_to_10": 1,
   "overall_drift_level": "LOW|MEDIUM|HIGH",
-  "per_variant": [
-    {{
-      "site": "string",
-      "original_title": "string",
-      "language": "hi|en|...",
-      "title_en": "translated title in English",
-      "drift_type": "PRESERVED|WEAKENED|STRENGTHENED|ALTERED",
-      "drift_score_1_to_10": 1,
-      "drift_phrases": [
-        {{
-          "original_phrase": "string",
-          "translated_phrase_en": "string",
-          "explanation": "how it changes meaning"
-        }}
-      ]
-    }}
-  ]
+  "per_variant": []
 }}
-'''
+"""
+
     data = _call_gemini_json(prompt)
 
-    overall_score = data.get("overall_drift_score_1_to_10", 1)
     try:
-        overall_score = int(overall_score)
+        overall_score = int(data.get("overall_drift_score_1_to_10", 1))
     except Exception:
         overall_score = 1
     overall_score = max(1, min(10, overall_score))
 
-    level = data.get("overall_drift_level", "LOW")
-
     return {
         "overall_drift_score_1_to_10": overall_score,
-        "overall_drift_level": level,
+        "overall_drift_level": data.get("overall_drift_level", "LOW"),
         "per_variant": data.get("per_variant", []),
     }
 
 
-def _compute_dti_for_contexts(contexts: List[Dict[str, Any]]) -> Dict[str, Any]:
-    """Compute a simple Dynamic Trust Index (1–10) per source.
-
-    This is a placeholder scoring function based on static priors and can be
-    extended later with a database-backed history of myths/corrections.
-    """
-    # Static priors; these could be loaded from config or a DB.
-    base_reputation: Dict[str, int] = {
-        # Example priors; tune as needed.
+# ----------------------------------------------------
+# DYNAMIC TRUST INDEX
+# ----------------------------------------------------
+def _compute_dti_for_contexts(contexts: List[Dict[str, Any]]):
+    base_reputation = {
         "the_hindu": 9,
         "aaj_tak": 6,
     }
 
-    site_scores: Dict[str, List[int]] = {}
+    site_scores = {}
     for ctx in contexts:
-        meta = ctx.get("metadata", {}) or {}
-        site = meta.get("site", "unknown")
-        if site not in site_scores:
-            site_scores[site] = []
+        m = ctx.get("metadata", {})
+        site = m.get("site", "unknown")
         prior = base_reputation.get(site, 5)
-        site_scores[site].append(prior)
+        site_scores.setdefault(site, []).append(prior)
 
-    output_sources: List[Dict[str, Any]] = []
+    output_sources = []
     for site, scores in site_scores.items():
-        avg = sum(scores) / max(1, len(scores))
-        score_int = max(1, min(10, int(round(avg))))
-        if score_int >= 8:
-            label = "High trust"
-        elif score_int >= 5:
-            label = "Moderate trust"
-        else:
-            label = "Low trust / high risk"
-        output_sources.append(
-            {
-                "site": site,
-                "dti_score_1_to_10": score_int,
-                "dti_label": label,
-            }
+        avg = sum(scores) / len(scores)
+        score = max(1, min(10, int(round(avg))))
+
+        label = (
+            "High trust" if score >= 8
+            else "Moderate trust" if score >= 5
+            else "Low trust / high risk"
         )
+
+        output_sources.append({
+            "site": site,
+            "dti_score_1_to_10": score,
+            "dti_label": label,
+        })
 
     return {"sources": output_sources}
 
 
+# ----------------------------------------------------
+# MAIN ENTRYPOINT
+# ----------------------------------------------------
 def analyze_query(query: str, contexts: List[Dict[str, Any]]) -> Dict[str, Any]:
-    """Main entrypoint used by the API layer.
-
-    Takes a raw user query and already-retrieved contexts and returns
-    a rich analytical payload.
-    """
     fact_check = _fact_check_analysis(query, contexts)
     narrative = _narrative_divergence_analysis(query, contexts)
     drift = _semantic_drift_analysis(query, contexts)
     dti = _compute_dti_for_contexts(contexts)
 
-    # Decide color at the top level based on verdict and truth score.
     verdict = fact_check["verdict"].upper()
     score = fact_check["truth_score_1_to_10"]
+
     if verdict == "FACT" and score >= 7:
         color = "green"
     elif verdict == "MYTH" and score >= 7:
         color = "red"
     else:
-        color = "yellow"  # mixed/uncertain or low-confidence
+        color = "yellow"
 
-    # Final, user-facing answer comes from the fact-check short summary.
-    answer = fact_check.get("short_answer") or fact_check.get("reasoning") or ""
+    answer = (
+        fact_check.get("short_answer")
+        or fact_check.get("reasoning")
+        or ""
+    )
 
     return {
         "query": query,

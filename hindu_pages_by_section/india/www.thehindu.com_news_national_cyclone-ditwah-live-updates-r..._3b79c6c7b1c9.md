@@ -1,0 +1,303 @@
+November 29, 2025[e-Paper](https://epaper.thehindu.com/reader?utm_source=Hindu&utm_medium=Menu&utm_campaign=Header&_gl=1*1u4uvwa*_gcl_au*NDk4ODM2Nzc2LjE3MjUwNzc4OTIuNTIxNjMwNzI4LjE3MjU0NDM0NDkuMTcyNTQ0MzQ0OQ..)
+[![The Hindu Logo](https://www.thehindu.com/theme/images/th-online/thehindu-logo.svg)](https://www.thehindu.com/)
+LOGIN[Account](https://www.thehindu.com/myaccount/)
+[eBooks](https://www.thehindu.com/premium/ebook/)[ Subscribe ](https://www.thehindu.com/subscription/)[GIFT FRONT PAGE](https://www.thehindu.com/frontpage/)
+[Search](https://www.thehindu.com/search/)
+[Live Now](https://www.thehindu.com/topic/live-news/)
+News
+SECTION
+[ News ](https://www.thehindu.com/news/) [ India ](https://www.thehindu.com/news/national/) [ World ](https://www.thehindu.com/news/international/) [ States ](https://www.thehindu.com/news/states/) [ Cities ](https://www.thehindu.com/news/cities/)
+TOPICS
+[ Ground Zero ](https://www.thehindu.com/topic/Ground_Zero/) [ Spotlight ](https://www.thehindu.com/topic/spotlight/)
+NEWSLETTER [ ![newsletterimg](https://www.thehindu.com/theme/images/th-online/1x1_spacer.png) The View From India Looking at World Affairs from the Indian perspective. ](https://www.thehindu.com/newsletter/newsletter-international/?utm_source=vfi_preview_link&utm_medium=website_nl-sub_page&utm_campaign=newsletter_signup)[SEE ALL NEWSLETTERS](https://www.thehindu.com/newsletter-subscription/?utm_source=site_menu&utm_medium=website&utm_campaign=newsletter_signup)
+[ States ](https://www.thehindu.com/news/states/) [ Cities ](https://www.thehindu.com/news/cities/)
+Entertainment
+SECTION
+[ Entertainment ](https://www.thehindu.com/entertainment/) [ Art ](https://www.thehindu.com/entertainment/art/) [ Dance ](https://www.thehindu.com/entertainment/dance/) [ Movies ](https://www.thehindu.com/entertainment/movies/) [ Music ](https://www.thehindu.com/entertainment/music/) [ Reviews ](https://www.thehindu.com/entertainment/reviews/) [ Theatre ](https://www.thehindu.com/entertainment/theatre/)
+NEWSLETTER [ ![newsletterimg](https://www.thehindu.com/theme/images/th-online/1x1_spacer.png) First Day First Show News and reviews from the world of cinema and streaming. ](https://www.thehindu.com/newsletter/first-day-first-show/?utm_source=fdfs_preview_link&utm_medium=website_nl-sub_page&utm_campaign=newsletter_signup)[SEE ALL NEWSLETTERS](https://www.thehindu.com/newsletter-subscription/?utm_source=site_menu&utm_medium=website&utm_campaign=newsletter_signup)
+Opinion
+SECTION
+[ Opinion ](https://www.thehindu.com/opinion/) [ Editorial ](https://www.thehindu.com/opinion/editorial/) [ Cartoon ](https://www.thehindu.com/opinion/cartoon/) [ Columns ](https://www.thehindu.com/opinion/columns/) [ Comment ](https://www.thehindu.com/opinion/op-ed/) [ Interview ](https://www.thehindu.com/opinion/interview/) [ Lead ](https://www.thehindu.com/opinion/lead/) [ Letters ](https://www.thehindu.com/opinion/letters/) [ Open Page ](https://www.thehindu.com/opinion/open-page/) [ Corrections & Clarifications ](https://www.thehindu.com/opinion/Readers-Editor/corrections-and-clarifications/)
+Business
+SECTION
+[ Business ](https://www.thehindu.com/business/) [ Agri-Business ](https://www.thehindu.com/business/agri-business/) [ Economy ](https://www.thehindu.com/business/Economy/) [ Industry ](https://www.thehindu.com/business/Industry/) [ Markets ](https://www.thehindu.com/business/markets/) [ Budget ](https://www.thehindu.com/business/budget/)
+Sport
+SECTION
+[ Sport ](https://www.thehindu.com/sport/) [ Cricket ](https://www.thehindu.com/sport/cricket/) [ Football ](https://www.thehindu.com/sport/football/) [ Hockey ](https://www.thehindu.com/sport/hockey/) [ Tennis ](https://www.thehindu.com/sport/tennis/) [ Athletics ](https://www.thehindu.com/sport/athletics/) [ Motorsport ](https://www.thehindu.com/sport/motorsport/) [ Races ](https://www.thehindu.com/sport/races/) [ Other Sports ](https://www.thehindu.com/sport/other-sports/)
+TOPICS
+[ Between Wickets ](https://www.thehindu.com/topic/Between_Wickets/)
+Technology
+SECTION
+[ Technology ](https://www.thehindu.com/sci-tech/technology/) [ Gadgets ](https://www.thehindu.com/sci-tech/technology/gadgets/) [ Internet ](https://www.thehindu.com/sci-tech/technology/internet/)
+NEWSLETTER [ ![newsletterimg](https://www.thehindu.com/theme/images/th-online/1x1_spacer.png) Today's Cache Your download of the top 5 technology stories of the day. ](https://www.thehindu.com/newsletter/newsletter-today-cache/?utm_source=todays_cache_preview_link&utm_medium=website_nl-sub_page&utm_campaign=newsletter_signup)[SEE ALL NEWSLETTERS](https://www.thehindu.com/newsletter-subscription/?utm_source=site_menu&utm_medium=website&utm_campaign=newsletter_signup)
+Science
+SECTION
+[ Science ](https://www.thehindu.com/sci-tech/science/)
+TOPICS
+[ ISRO ](https://www.thehindu.com/topic/isro/) [ Question Corner ](https://www.thehindu.com/topic/Question_Corner)
+NEWSLETTER [ ![newsletterimg](https://www.thehindu.com/theme/images/th-online/1x1_spacer.png) Science For All The weekly newsletter from science writers takes the jargon out of science and puts the fun in! ](https://www.thehindu.com/newsletter/newsletter-science/?utm_source=science_preview_link&utm_medium=website_nl-sub_page&utm_campaign=newsletter_signup)[SEE ALL NEWSLETTERS](https://www.thehindu.com/newsletter-subscription/?utm_source=site_menu&utm_medium=website&utm_campaign=newsletter_signup)
+Data
+SECTION
+[ Data ](https://www.thehindu.com/data/)
+TOPICS
+[ Data Point Podcast ](https://www.thehindu.com/topic/data-point-podcast/)
+NEWSLETTER [ ![newsletterimg](https://www.thehindu.com/theme/images/th-online/1x1_spacer.png) Data Point Decoding the headlines with facts, figures, and numbers ](https://www.thehindu.com/newsletter/newsletter-data/?utm_source=data_point_preview_link&utm_medium=website_nl-sub_page&utm_campaign=newsletter_signup)[SEE ALL NEWSLETTERS](https://www.thehindu.com/newsletter-subscription/?utm_source=site_menu&utm_medium=website&utm_campaign=newsletter_signup)
+Education
+SECTION
+[ Education ](https://www.thehindu.com/education/) [ Careers ](https://www.thehindu.com/education/careers/) [ Colleges ](https://www.thehindu.com/education/colleges/) [ Schools ](https://www.thehindu.com/education/schools/)
+Health
+SECTION
+[ Health ](https://www.thehindu.com/sci-tech/health/)
+TOPICS
+[ All you need to know about ](https://www.thehindu.com/topic/all-you-need-to-know-about/)
+NEWSLETTER [ ![newsletterimg](https://www.thehindu.com/theme/images/th-online/1x1_spacer.png) Health Matters Ramya Kannan writes to you on getting to good health, and staying there ](https://www.thehindu.com/newsletter/health-matters/?utm_source=health_matters_preview_link&utm_medium=website_nl-sub_page&utm_campaign=newsletter_signup)[SEE ALL NEWSLETTERS](https://www.thehindu.com/newsletter-subscription/?utm_source=site_menu&utm_medium=website&utm_campaign=newsletter_signup)
+Life & Style
+SECTION
+[ Life & Style ](https://www.thehindu.com/life-and-style/) [ Fashion ](https://www.thehindu.com/life-and-style/fashion/) [ Fitness ](https://www.thehindu.com/life-and-style/fitness/) [ Homes and gardens ](https://www.thehindu.com/life-and-style/homes-and-gardens/) [ Luxury ](https://www.thehindu.com/life-and-style/luxury/) [ Motoring ](https://www.thehindu.com/life-and-style/motoring/) [ Travel ](https://www.thehindu.com/life-and-style/travel/)
+Society
+SECTION
+[ Society ](https://www.thehindu.com/society/) [ Faith ](https://www.thehindu.com/society/faith/) [ History & Culture ](https://www.thehindu.com/society/history-and-culture/)
+Books
+SECTION
+[ Books ](https://www.thehindu.com/books/)
+TOPICS
+[ Hindi Belt ](https://www.thehindu.com/topic/Hindi_Belt/)
+NEWSLETTER [ ![newsletterimg](https://www.thehindu.com/theme/images/th-online/1x1_spacer.png) The Hindu On Books Books of the week, reviews, excerpts, new titles and features. ](https://www.thehindu.com/newsletter/the-hindu-on-books/?utm_source=books_preview_link&utm_medium=website_nl-sub_page&utm_campaign=newsletter_signup)[SEE ALL NEWSLETTERS](https://www.thehindu.com/newsletter-subscription/?utm_source=site_menu&utm_medium=website&utm_campaign=newsletter_signup)
+[ Children ](https://www.thehindu.com/children/) [ Elections ](https://www.thehindu.com/elections/)
+Food
+SECTION
+[ Food ](https://www.thehindu.com/food/) [ Dining ](https://www.thehindu.com/food/dining/) [ Features ](https://www.thehindu.com/food/features/) [ Guides ](https://www.thehindu.com/food/guides/) [ Recipes ](https://www.thehindu.com/food/recipes/)
+TOPICS
+[ Good Health Hunting ](https://www.thehindu.com/topic/Good_Health_Hunting/)
+[ Environment ](https://www.thehindu.com/sci-tech/energy-and-environment/) [ Real Estate ](https://www.thehindu.com/real-estate/) [ Agriculture ](https://www.thehindu.com/sci-tech/agriculture/)
+Brandhub
+SECTION
+[ PR Release ](https://www.thehindu.com/brandhub/pr-release/)
+Connect with us[](https://whatsapp.com/channel/0029VaAvwQJ90x34WZ6FDg36 "WhatsApp")[](https://twitter.com/The_Hindu "Twitter")[](https://www.facebook.com/thehindu "Facebook")[](https://www.instagram.com/the_hindu/?ref=badge "Instagram")[](https://www.linkedin.com/school/the-hindu/ "Linkedin")[](https://www.youtube.com/user/The1878Hindu "Youtube")[](https://open.spotify.com/show/5yESTCj0iikA81EP3uXkQC "Spotify")[](https://t.me/THnewsupdates "Telegram")
+[The Hindu Best Places to Work](https://www.thehindu.com/static/content/the-hindu-best-places-to-work-india-awards/)
+November 29, 2025[e-Paper](https://epaper.thehindu.com/reader?utm_source=Hindu&utm_medium=Menu&utm_campaign=Header&_gl=1*1u4uvwa*_gcl_au*NDk4ODM2Nzc2LjE3MjUwNzc4OTIuNTIxNjMwNzI4LjE3MjU0NDM0NDkuMTcyNTQ0MzQ0OQ..)
+[Search for topics, people, articles...](https://www.thehindu.com/search/)
+[ India ](https://www.thehindu.com/news/national/) [ World ](https://www.thehindu.com/news/international/) [ Movies ](https://www.thehindu.com/entertainment/movies/) [ Sport ](https://www.thehindu.com/sport/) [ Data ](https://www.thehindu.com/data/) [ Health ](https://www.thehindu.com/sci-tech/health/) [ Opinion ](https://www.thehindu.com/opinion/) [ Science ](https://www.thehindu.com/sci-tech/science/) [ Business ](https://www.thehindu.com/business/) [ Premium ](https://www.thehindu.com/premium/)
+[ Videos ](https://www.thehindu.com/videos/) [ Podcast ](https://www.thehindu.com/podcast/) [ Photos ](https://www.thehindu.com/photos/) [ Visual Stories ](https://www.thehindu.com/visual-story/) [ Specials ](https://www.thehindu.com/specials/)
+[ eBooks ](https://www.thehindu.com/premium/ebook/) [ Crossword ](https://crossword.thehindu.com/?utm_source=thehindu&utm_medium=mainmenu) [ Newsletter ](https://www.thehindu.com/newsletter-subscription/) [ Lit For Life ](https://www.thehindu.com/lit-for-life/) [ The Huddle ](https://www.thehindu.com/the-huddle/)
+  1. [ Home ](https://www.thehindu.com/)
+  2. [ News ](https://www.thehindu.com/news/)
+  3. [ India ](https://www.thehindu.com/news/national/)
+
+
+[](https://www.thehindu.com/topic/live-news/)
+#  Cylcone Ditwah LIVE updates: NDRF deploys teams, provides relief material to Sri Lanka 
+##  The IMD said the cyclonic storm 'Ditwah' over Sri Lanka coast and adjoining southwest Bay of Bengal has moved slowly northwards 
+Updated  - November 29, 2025 11:05 am IST 
+[ The Hindu Bureau](https://www.thehindu.com/profile/author/the-hindu-bureau-14355/)
+READ LATER
+[ SEE ALL ](https://www.thehindu.com/myaccount/?tab=bookmarks) Remove 
+[![Google Preferred Source](https://www.thehindu.com/theme/images/th-online/google-preferred-badge.png)](https://www.google.com/preferences/source?q=https://www.thehindu.com/)
+![NDRF Deploys Teams to Sri Lanka under Operation Sagar Bandhu for Cyclone “Ditwah” Relief.](https://www.thehindu.com/theme/images/th-online/1x1_spacer.png)
+NDRF Deploys Teams to Sri Lanka under Operation Sagar Bandhu for Cyclone “Ditwah” Relief. | Photo Credit: NDRF 
+[Cyclone Ditwah](https://www.thehindu.com/news/national/tamil-nadu/cyclone-ditwah-red-alert-for-tamil-nadus-coastal-districts-on-november-29-as-storm-moves-closer/article70335155.ece) was slowly moving closer towards the Tamil Nadu coast, and it was likely to bring heavy rainfall on Saturday (November 29, 2025), the weather office said on Friday, as the State government reviewed its preparedness to face the second such weather system in a month.
+The India Meteorological Department (IMD) has warned that Ditwah, currently hovering close to Sri Lanka and the southwest Bay of Bengal, is likely to intensify slightly and move towards the North Tamil Nadu-Puducherry coast by early November 30.
+**ALSO READ:[Nearly 100 dead as rain triggered by Cyclone Ditwah wreaks havoc across Sri Lanka](https://www.thehindu.com/news/international/sri-lanka-landslips-floods-rain-cyclone-offices-schools-closed-death-toll-nov-28-2025/article70333374.ece)**
+The weather office forecast heavy rains in the southern and Cauvery delta districts of the State, between November 29 and 30.
+India on Friday (November 28, 2025) [delivered essential relief supplies to cyclone-battered Sri Lanka](https://www.thehindu.com/news/international/cyclone-ditwah-in-sri-lanka-pm-modi-announces-assistance-under-operation-sagar-bandhu/article70335028.ece), with Prime Minister Narendra Modi conveying to the island nation that New Delhi stands ready to provide more aid to it to deal with the situation.
+**_Follow the live updates here:_**
+  * November 29, 2025 11:04
+NDRF Deploys Teams to Sri Lanka under Operation Sagar Bandhu for Cyclone “Ditwah” Relief
+In the early hours today, two NDRF teams comprising 80 rescuers and 04 canines, under the command of Shri P K Tiwary, Commandant 8th Battalion, along with specialized HADR equipment and relief material, departed at 0406 hrs aboard an IAF IL-76 aircraft from Hindon Air Base for Colombo.
+These teams carry inflatable boats, hydraulic cutting and breaching tools, communication equipment, medical first-aid kits, and other essential rescue stores to support search, rescue, and relief operations in cyclone-affected regions of Sri Lanka.
+WhatsApp Image 2025-11-29 at 10.56.07 AM.jpeg
+_Credit: NDRF_
+  * November 29, 2025 11:01
+Mayiladuthurai district records 44mm rainfall within 2 hours
+Mayiladuthurai district recorded 44 mm of rainfall between 8.30 a.m. and 10.30 a.m. on Saturday, according to the district administration. 
+Mayiladuthurai town and Sembanarkoil also registered the highest rainfall at 10 mm each, followed by Sirkali with 8 mm and Manalmedu with 7 mm. 
+Tharangambadi reported 4.01 mm, while Kollidam received 5 mm during the two-hour spell. The average rainfall across the district stood at 7.34 mm.
+  * November 29, 2025 10:45
+Steady showers in the Delta, crop impact minimal
+Moderate rains were witnessed near Vaduvur Thenpathi on the Thanjavur-Mannargudi road on Saturday morning, as Cyclone Ditwah’s outer bands continued to bring steady showers to the Delta. 
+Agricultural workers were seen creating outlets in paddy fields to ease waterlogging, though crop impact remained minimal at this stage. Coconut trees in the area swayed under strengthening winds.
+_-M. Nacchinarkkiniyan_
+  * November 29, 2025 10:38
+Rains in Thanjavur
+Light to moderate rains were reported across parts of Thanjavur district on Saturday morning. Paddy fields remain largely unaffected so far, although a steady spell of rainfall has set in.
+_-M. Nacchinarkkiniyan_
+  * November 29, 2025 10:32
+Sri Lanka flood, landslips toll rises to 123
+Torrential rains, triggered by Cyclone Ditwah, have killed 123 people across Sri Lanka so far, with another 130 still missing, the Disaster Management Centre said Saturday.
+Director General Sampath Kotuwegoda said relief operations were underway with 43,995 people moved to state-run welfare centres after their homes were destroyed in the week-long heavy rains.
+_-AFP_
+  * November 29, 2025 10:16
+India stands firmly with Sri Lanka in this hour of need: IAF
+​
+> [](https://twitter.com/threadless/status/1994623826609799454?s=46)
+​
+  * November 29, 2025 09:55
+Watch: Cyclone Ditwah LIVE updates
+  * November 29, 2025 09:27
+Pondicherry Central University postpones all exams due to Cyclone Ditwah 
+The Pondicherry Central University has announced that all exams scheduled for Saturday have been postponed, and a holiday has been declared for all classes at the university because of Cyclone Ditwah, which is heading towards the union territory coast.
+A revised date for the examinations would be announced in due course, the release said.
+_-PTI_
+  * November 29, 2025 09:04
+Cyclone continues to move from Sri Lanka to TN coast: IMD
+> [](https://twitter.com/threadless/status/1994607786748252533)
+  * November 29, 2025 08:47
+Indian Air Force aircraft brings emergency relief supplies to Sri Lanka 
+An Indian Air Force aircraft carrying emergency relief material for those displaced by unprecedented floods arrived in Sri Lanka early on Saturday morning.
+The C130 aircraft carrying essential food items and sanitary supplies reached Colombo’s Bandaranaike International Airport airport at around 1.30 am and was received by the Indian High Commission officials and Sri Lanka Air Force officers.
+India on Friday launched ‘Operation Sagar Bandhu’ to assist Sri Lanka in its hour of crisis, and the first tranche of relief materials was handed over after the consignments were transported by the Indian Navy’s aircraft carrier INS Vikrant and frontline ship INS Udaigiri to the island nation.
+The relief came as Sri Lankan authorities warned of an “unprecedented disaster situation” in the Western Province from Friday night due to rising water levels in the Kelani and Attanagalu rivers.
+Sri Lanka is facing one of its worst disasters as cyclonic storm Ditwah wreaked havoc, causing floods and landslides that left a trail of destruction and damage to infrastructure.
+_-PTI_
+  * November 29, 2025 08:26
+Red alert for Nellore, Chittoor, Tirupati and Annamayya districts on November 30
+The South Coastal Andhra Pradesh and Rayalaseema regions are likely to witness widespread rain, with isolated heavy to very heavy precipitation, on November 29 and 30 under the impact of the cyclonic storm Ditwah. Extremely heavy rainfall is also likely in some districts of South Coastal Andhra Pradesh on November 30. 
+Read more here:
+[![](https://www.thehindu.com/theme/images/th-online/1x1_spacer.png)](https://www.thehindu.com/news/national/andhra-pradesh/cyclone-ditwah-red-alert-for-nellore-chittoor-tirupati-and-annamayya-districts-on-november-30/article70336029.ece)
+### Cyclone Ditwah: Red alert for Nellore, Chittoor, Tirupati and Annamayya districts on November 30
+Cyclone Ditwah triggers red alert for heavy rainfall in Nellore, Chittoor, Tirupati, and Annamayya districts on November 30.
+  * November 29, 2025 08:15
+Ahead of Cyclone Ditwah, GCC begins real-time flood monitoring on 40 roads 
+Ahead of Cyclone Ditwah, the Greater Chennai Corporation (GCC) has begun real-time monitoring of flood levels through flood meters installed on 40 roads in vulnerable neighbourhoods of the city.
+Work on the 40 roads has been completed and the project would soon be expanded to all flood-prone areas of the city.
+Read more here:
+[![](https://www.thehindu.com/theme/images/th-online/1x1_spacer.png)](https://www.thehindu.com/news/cities/chennai/ahead-of-cyclone-ditwah-gcc-begins-real-time-flood-monitoring-on-40-roads/article70335534.ece)
+### Ahead of Cyclone Ditwah, GCC begins real-time flood monitoring on 40 roads
+GCC initiates real-time flood monitoring on 40 roads to enhance flood response and keep residents informed ahead of Cyclone Ditwah.
+  * November 29, 2025 07:44
+Water discharge increased from Chennai's reservoirs
+Water discharge from Chennai’s major reservoirs has been increased at 6 a.m. on Saturday in view of the forecast for intense rainfall. 
+Discharge from Poondi reservoir has been increased to 2,500 cusecs, from Cholavaram to 400 cusecs, from Chembarambakkam to 1,200 cusecs and from Red Hills to 1,000 cusecs.
+_-K. Lakshmi_
+  * November 29, 2025 07:42
+Humanitarian aid from India lands in Colombo
+> [](https://twitter.com/threadless/status/1994585811728437506?s=19)
+  * November 29, 2025 07:34
+Holiday for schools in Thanjavur, Ariyalur, Perambalur, Pudukottai, Nagapattinam, Tiruvarur and Mayiladuthurai
+Holiday has been declared for schools in Thanjavur and Ariyalur districts and schools and colleges in Perambalur and Pudukottai districts.
+Holiday had already been declared for schools and colleges today in Nagapattinam, Tiruvarur and Mayiladuthurai districts.
+_-S. Ganesan_
+  * November 29, 2025 07:31
+Holiday for schools in Tiruchi
+On account of the heavy rain forecast, a holiday has been declared for all schools in Tiruchi district. Schools are advised not to have any special classes, said Collector V. Saravanan.
+_-S. Ganesan_
+  * November 29, 2025 07:26
+Light to moderate rain forecast across T.N.
+The Regional Meteorological Centre has retained its forecast of light to moderate rain across many parts of Tamil Nadu on Saturday. 
+Red alert has been issued for Cuddalore, Mayiladuthurai, Villupuram, Chengalpattu and Puducherry, in view of the possibility of extremely heavy rainfall.
+_-K. Lakshmi_
+  * November 29, 2025 07:23
+Cyclone to reach T.N., A.P. coasts by November 30 morning
+Satellite imagery of cyclone Ditwah clouding as of 6 a.m. on November 29, 2025
+Cyclonic Storm Ditwah moved northwards at a speed of 7 kmph and lay centred over coastal Sri Lanka and adjoining southwest Bay of Bengal, 330 km south-southeast of Puducherry and 430 km south of Chennai.
+It is very likely to move north-northwestwards across coastal Sri Lanka and adjoining southwest Bay of Bengal and reach over southwest Bay of Bengal near North Tamil Nadu, Puducherry and adjoining south Andhra Pradesh coasts by November 30 early morning.
+  * November 29, 2025 07:14
+Nearly 100 dead as rain triggered by Cyclone Ditwah wreaks havoc across Sri Lanka 
+Nearly 100 persons have been reported dead and dozens are missing in Sri Lanka — as of Friday (November 28, 2025) evening — amid incessant rains combined with strong winds, even as Cyclone Ditwah appears to proceed north and north-west, towards the coast of Tamil Nadu.
+The island has been experiencing torrential downpour over the last couple of days, with several districts recording unprecedented levels of rainfall. According to the Department of Meteorology and the Disaster Management Centre, 20 out of Sri Lanka’s 25 districts are badly hit, with over 60,000 families and 2,00,000 people directly affected amid an island-wide “red alert” issued by authorities.
+Read more:
+[![](https://www.thehindu.com/theme/images/th-online/1x1_spacer.png)](https://www.thehindu.com/news/international/sri-lanka-landslips-floods-rain-cyclone-offices-schools-closed-death-toll-nov-28-2025/article70333374.ece)
+### Nearly 100 dead as rain triggered by Cyclone Ditwah wreaks havoc across Sri Lanka
+Sri Lanka shuts schools and offices as floods and landslides claim 56 lives, with severe weather causing widespread damage.
+  * November 29, 2025 06:59
+Cyclone moving towards TN coast: IMD
+The IMD, at 2.20 a.m., noted that Ditwah is very likely to continue to move north-northwestwards across coastal Sri Lanka and adjoining southwest Bay of Bengal and reach over the southwest Bay of Bengal near North Tamil Nadu, Puducherry and adjoining south Andhra Pradesh coasts by early morning of 30th November
+> [](https://twitter.com/threadless/status/1994509151352098941)
+  * November 29, 2025 06:55
+Red alert for Tamil Nadu’s coastal districts on November 29 as storm moves closer
+The Regional Meteorological Centre has maintained its red alert, indicating possibility of isolated extremely heavy rainfall, for various districts in Tamil Nadu on Saturday (November 29, 2025) and two districts on Sunday, as Cyclone Ditwah continues to move over coastal Sri Lanka and the adjoining southwest Bay of Bengal.
+Read more here:
+[![](https://www.thehindu.com/theme/images/th-online/1x1_spacer.png)](https://www.thehindu.com/news/national/tamil-nadu/cyclone-ditwah-red-alert-for-tamil-nadus-coastal-districts-on-november-29-as-storm-moves-closer/article70335155.ece)
+### Cyclone Ditwah: Red alert for Tamil Nadu’s coastal districts on November 29 as storm moves closer
+Red alert issued for Tamil Nadu’s coastal districts as Cyclone Ditwah approaches, bringing heavy rainfall and strong winds.
+
+
+Published - November 29, 2025 06:54 am IST
+Read Comments 
+  * Copy link 
+  * Email 
+  * Facebook 
+  * Twitter 
+  * Telegram 
+  * LinkedIn 
+  * WhatsApp 
+  * Reddit 
+
+
+READ LATER
+[ SEE ALL ](https://www.thehindu.com/myaccount/?tab=bookmarks) Remove 
+PRINT
+###  Related Topics 
+[ Live news ](https://www.thehindu.com/topic/live-news/) / [ cyclones ](https://www.thehindu.com/tag/665-663-651/) / [ rains ](https://www.thehindu.com/topic/rains/) / [ weather ](https://www.thehindu.com/tag/1958/) / [ Sri Lanka ](https://www.thehindu.com/tag/398-244/) / [ Tamil Nadu ](https://www.thehindu.com/tag/204-81/) / [ Andhra Pradesh ](https://www.thehindu.com/tag/86-81/)
+![](https://www.thehindu.com/news/national/cyclone-ditwah-live-updates-rains-tamil-nadu-andhra-pradesh-sri-lanka-november-29-2025/article70337452.ece)
+![](https://www.thehindu.com/theme/images/th-online/close-image-icon.svg)
+0 / 0
+[![Return to frontpage](https://www.thehindu.com/theme/images/th-online/1x1_spacer.png)](https://www.thehindu.com/)
+[](https://play.google.com/store/apps/details?id=com.mobstac.thehindu "Google Play")[](https://apps.apple.com/in/app/the-hindu-news/id771672321 "Apple Store")
+##### The Hindu
+[ About Us ](https://www.thehindu.com/aboutus/) [ Code of Editorial Values ](https://www.thehindu.com/values/) [ News Archive ](https://www.thehindu.com/archive/) [ Sitemap ](https://www.thehindu.com/sitemap/) [ Print Subscription ](http://www.thehindugroup.in/subscribe/) [ Digital Subscription ](https://www.thehindu.com/subscription/?utm_source=footer&utm_medium=section&utm_caign=website) [ Subscribe to Newsletters ](https://www.thehindu.com/newsletter-subscription/) [ Rss Feeds ](https://www.thehindu.com/rssfeeds/) [ Readers Editor-Terms of Reference ](https://www.thehindu.com/readers-editor-terms/) [ Authors & Contributors ](https://www.thehindu.com/profile/) [ Gift Front page ](https://www.thehindu.com/frontpage/)
+##### Contact us
+[ Contact Us ](https://www.thehindu.com/contacts/) [ Social Media ](https://www.thehindu.com/social/) [ Advertise With Us ](https://www.thehindu.com/advertise-with-us/)
+##### Group News Sites
+[ Business Line ](https://www.thehindubusinessline.com/) [ BL on Campus ](https://bloncampus.thehindubusinessline.com/) [ Sportstar ](https://sportstar.thehindu.com/) [ Frontline ](https://frontline.thehindu.com/) [ இந்து தமிழ் திசை ](https://www.hindutamil.in/) [ The Hindu Centre ](https://www.thehinducentre.com/) [ Young World Club ](https://ywc.thehindu.com/) [ The Hindu ePaper ](https://epaper.thehindu.com/?utm_source=Hindu&utm_medium=Menu&utm_campaign=Header) [ Business Line ePaper ](https://epaper.thehindubusinessline.com/login) [ Crossword + Free Games ](https://crossword.thehindu.com/?utm_source=thehindu&utm_medium=mainmenu)
+##### Other Products
+[ STEP ](https://step.thehindu.com/) [ Images ](https://thehinduimages.com/) [ Classifieds - Print ](http://www.thehinduclassifieds.in/) [ Bookstore & Special Publications ](https://publications.thehindugroup.com/bookstore/)
+##### Popular Sections
+[ Elections ](https://www.thehindu.com/elections/) [ Latest News ](https://www.thehindu.com/latest-news/) [ National News ](https://www.thehindu.com/news/national/) [ International News ](https://www.thehindu.com/news/international/) [ Videos ](https://www.thehindu.com/videos/) [ Life & Style ](https://www.thehindu.com/life-and-style/) [ Food ](https://www.thehindu.com/food/) [ Podcast ](https://www.thehindu.com/podcast/) [ Showcase ](https://www.thehindu.com/showcase/)
+#####  [ Opinion ](https://www.thehindu.com/opinion/)
+[ Editorial ](https://www.thehindu.com/opinion/editorial/) [ Columns ](https://www.thehindu.com/opinion/columns/) [ Comment ](https://www.thehindu.com/opinion/op-ed/) [ Cartoon ](https://www.thehindu.com/opinion/cartoon/) [ Letters ](https://www.thehindu.com/opinion/letters/) [ Interview ](https://www.thehindu.com/opinion/interview/) [ Lead ](https://www.thehindu.com/opinion/lead/)
+#####  [ Business ](https://www.thehindu.com/business/)
+[ Agri-Business ](https://www.thehindu.com/business/agri-business/) [ Industry ](https://www.thehindu.com/business/Industry/) [ Economy ](https://www.thehindu.com/business/Economy/) [ Markets ](https://www.thehindu.com/business/markets/) [ Budget ](https://www.thehindu.com/business/budget/)
+#####  [ Sport ](https://www.thehindu.com/sport/)
+[ Cricket ](https://www.thehindu.com/sport/cricket/) [ Football ](https://www.thehindu.com/sport/football/) [ Hockey ](https://www.thehindu.com/sport/hockey/) [ Tennis ](https://www.thehindu.com/sport/tennis/) [ Athletics ](https://www.thehindu.com/sport/athletics/) [ Motorsport ](https://www.thehindu.com/sport/motorsport/) [ Races ](https://www.thehindu.com/sport/races/) [ Other Sports ](https://www.thehindu.com/sport/other-sports/)
+#####  [ Sci-Tech ](https://www.thehindu.com/sci-tech/)
+[ Science ](https://www.thehindu.com/sci-tech/science/) [ Technology ](https://www.thehindu.com/sci-tech/technology/) [ Health ](https://www.thehindu.com/sci-tech/health/) [ Agriculture ](https://www.thehindu.com/sci-tech/agriculture/) [ Environment ](https://www.thehindu.com/sci-tech/energy-and-environment/) [ Gadgets ](https://www.thehindu.com/sci-tech/technology/gadgets/) [ Internet ](https://www.thehindu.com/sci-tech/technology/internet/)
+#####  [ States ](https://www.thehindu.com/news/states/)
+[ Andhra Pradesh ](https://www.thehindu.com/news/national/andhra-pradesh/) [ Karnataka ](https://www.thehindu.com/news/national/karnataka/) [ Kerala ](https://www.thehindu.com/news/national/kerala/) [ Tamil Nadu ](https://www.thehindu.com/news/national/tamil-nadu/) [ Telangana ](https://www.thehindu.com/news/national/telangana/)
+#####  [ Cities ](https://www.thehindu.com/news/cities/)
+[ Bengaluru ](https://www.thehindu.com/news/cities/bangalore/) [ Chennai ](https://www.thehindu.com/news/cities/chennai/) [ Coimbatore ](https://www.thehindu.com/news/cities/Coimbatore/) [ Delhi ](https://www.thehindu.com/news/cities/Delhi/) [ Hyderabad ](https://www.thehindu.com/news/cities/Hyderabad/) [ Kochi ](https://www.thehindu.com/news/cities/Kochi/) [ Kolkata ](https://www.thehindu.com/news/cities/kolkata/) [ Kozhikode ](https://www.thehindu.com/news/cities/kozhikode/) [ Madurai ](https://www.thehindu.com/news/cities/Madurai/) [ Mangaluru ](https://www.thehindu.com/news/cities/Mangalore/) [ Mumbai ](https://www.thehindu.com/news/cities/mumbai/) [ Puducherry ](https://www.thehindu.com/news/cities/puducherry/) [ Thiruvananthapuram ](https://www.thehindu.com/news/cities/Thiruvananthapuram/) [ Tiruchirapalli ](https://www.thehindu.com/news/cities/Tiruchirapalli/) [ Vijayawada ](https://www.thehindu.com/news/cities/Vijayawada/) [ Visakhapatnam ](https://www.thehindu.com/news/cities/Visakhapatnam/)
+##### Trending on The Hindu
+[ News ](https://www.thehindu.com/news/)[ Nitish Kumar to be sworn in again as Bihar CM on November 20 ](https://www.thehindu.com/news/national/bihar/nitish-kumar-tenders-resignation-to-be-sworn-in-again-on-november-20/article70290065.ece)[ Bangladesh’s ousted PM Sheikh Hasina, ex-Home Minister sentenced to death ](https://www.thehindu.com/news/international/bangladesh-ic-tribunal-verdict-sheikh-hasina/article70289801.ece)[ Bihar Polls 2025 ](https://www.thehindu.com/elections/bihar-assembly/)[ Sports, IPL 2025 News ](https://www.thehindu.com/sport/)[ Delhi news ](https://www.thehindu.com/news/cities/Delhi/)[ Live news ](https://www.thehindu.com/topic/live-news/)[ Entertainment news ](https://www.thehindu.com/entertainment/movies/)[ Sitemap ](https://www.thehindu.com/sitemap/update/all.xml)
+##### Trending on Group sites
+[ Stock Market Live Updates ](https://www.thehindubusinessline.com/markets/share-market-nifty-sensex-live-updates-1st-april-2024/article68012792.ece)[ WPL 2026 Mega Auction Live Updates ](https://sportstar.thehindu.com/cricket/womens-cricket/wpl-auction-2026-live-updates-bids-mi-rcb-dc-gg-upw-team-list-womens-premier-league/article70329435.ece)[ IND vs ENG Test Series Full Results ](https://sportstar.thehindu.com/cricket/india-vs-england-test-series-result-eng-vs-ind-full-list-wins-results-tests/article69704557.ece)[ The Hindu Crossword ](https://crossword.thehindu.com/)[ Gold Rate Today ](https://www.thehindubusinessline.com/gold-rate-today/Chennai/)[ Silver Rate Today ](https://www.thehindubusinessline.com/silver-rate-today/)[ Arvind Kejriwal Exclusive Interview ](https://frontline.thehindu.com/politics/arvind-kejriwal-exclusive-interview-delhi-election-2025-voting-aap-vs-bjp-vs-congress/article69131147.ece?utm_source=th&utm_medium=footer&utm_campaign=internal)[ Editor’s Note: Putting Muslims in their place? ](https://frontline.thehindu.com/the-nation/waqf-amendment-bill-impact-indian-muslims-reforms-consultative-process-othering-backwardness/article68849163.ece?utm_source=th&utm_medium=footer&utm_campaign=internal)[ Frontline Current Issue ](https://frontline.thehindu.com/current-issue/)
+##### [Latest News](https://www.thehindu.com/latest-news/)
+  * [Karnataka leadership crisis: Siddaramaiah, D.K. Shivakumar meet over breakfast, hold talks](https://www.thehindu.com/news/national/karnataka/siddaramaiah-dks-breakfast-meet-updates/article70337638.ece)
+  * [The many roles of sugarcane in India and the world](https://www.thehindu.com/sci-tech/science/the-many-roles-of-sugarcane-in-india-and-the-world/article70324632.ece)
+  * [Fire breaks out at Baby Memorial hospital in Kerala’s Kozhikode](https://www.thehindu.com/news/national/kerala/fire-breaks-out-at-baby-memorial-hospital-in-keralas-kozhikode/article70337655.ece)
+  * [Shopping mall shooting wounds 2, prompts Black Friday evacuation in California’s Bay Area](https://www.thehindu.com/news/international/shopping-mall-shooting-wounds-2-prompts-black-friday-evacuation-in-californias-bay-area/article70337589.ece)
+  * [Delhi breathes ‘very poor’ air; AQI at 332](https://www.thehindu.com/news/cities/Delhi/delhi-breathes-very-poor-air-aqi-at-332/article70337582.ece)
+
+
+  * [Leh violence probe: Term of judicial inquiry to record statements extended by 10 days](https://www.thehindu.com/news/national/ladakh/leh-violence-probe-term-of-judicial-inquiry-to-record-statements-extended-by-10-days/article70337522.ece)
+  * [EU says Apple Ads and Maps likely qualify as gatekeepers; Apple disagrees](https://www.thehindu.com/sci-tech/technology/eu-says-apple-ads-and-maps-likely-qualify-as-gatekeepers-apple-disagrees/article70337464.ece)
+  * [Google ditches EU antitrust complaint about Microsoft cloud amid EU probe](https://www.thehindu.com/sci-tech/technology/google-ditches-eu-antitrust-complaint-about-microsoft-cloud-amid-eu-probe/article70337469.ece)
+  * [आंकड़ों से जुड़ी कमियां: भारत और आईएमएफ की निम्न ग्रेडिंग](https://www.thehindu.com/hindi/editorial/the-hindu-hindi-editorial-on-data-deficiencies-on-india-and-the-imfs-low-grading/article70337569.ece)
+  * [रिश्तों में तनातनी: चीन और जापान के बीच तनाव](https://www.thehindu.com/hindi/editorial/the-hindu-hindi-editorial-on-tense-waters-on-china-japan-tensions/article70337538.ece)
+
+
+[](https://whatsapp.com/channel/0029VaAvwQJ90x34WZ6FDg36)[](https://twitter.com/The_Hindu)[](https://www.facebook.com/thehindu)[](https://www.instagram.com/the_hindu/?ref=badge)[](https://www.linkedin.com/school/the-hindu/)[](https://www.youtube.com/user/The1878Hindu)[](https://open.spotify.com/show/5yESTCj0iikA81EP3uXkQC)[](https://t.me/THnewsupdates)
+[ Terms of Use ](https://www.thehindugroup.com/termsofuse.html) [ Privacy Policy ](https://www.thehindugroup.com/privacy.html)
+Copyright© 2025, THG PUBLISHING PVT LTD. or its affiliated companies. All rights reserved. 
+BACK TO TOP
+![The Hindu](https://www.thehindu.com/theme/images/google-signin/th-online-icon.svg)
+Sign in to unlock member-only benefits!
+  * Access 10 free stories every month
+  * Save stories to read later
+  * Access to comment on every story
+  * Sign-up/manage your newsletter subscriptions with a single click
+  * Get notified by email for early access to discounts & offers on our products
+
+
+![Sign in](https://www.thehindu.com/theme/images/google-signin/group-12945.svg)
+✕
+Looks like you are already logged in from more than 5 devices!
+To continue logging in, remove at least one device from the below list
+  * Log out
+
+Log Out from all devices
+[Terms & conditions](https://www.thehindugroup.com/privacy.html) | [Institutional Subscriber](https://forms.office.com/r/tz7UETzxUs)
+${ ind + 1 } ${ device }Last active - ${ la }
+![](https://www.thehindu.com/theme/images/th-online/1x1_spacer.png)
+### Comments
+Comments have to be in English, and in full sentences. They cannot be abusive or personal. Please abide by our [community guidelines ](https://www.thehindu.com/termsofuse/) for posting your comments. 
+We have migrated to a new commenting platform. If you are already a registered user of The Hindu and logged in, you may continue to engage with our articles. If you do not have an account please register and login to post comments. Users can access their older comments by logging into their accounts on Vuukle.

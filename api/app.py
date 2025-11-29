@@ -2,9 +2,11 @@
 from fastapi import FastAPI
 from pydantic import BaseModel
 from typing import Dict, Any
+from pyngrok import ngrok
+import uvicorn
 
+# from retrieval.rag_runner import run_rag
 from retrieval.rag_runner import run_rag
-
 
 app = FastAPI(title="News RAG Orchestrator")
 
@@ -33,3 +35,10 @@ async def query(req: QueryRequest) -> Dict[str, Any]:
     }
     result = run_rag(req.query, config)
     return result
+
+if __name__ == "__main__":
+    public_url = ngrok.connect(8000)
+    print("Public url: ", public_url)
+    print("Local url: http://127.0.0.1:8000")
+    uvicorn.run(app=app, host="0.0.0.0", port=8000, reload=False)
+

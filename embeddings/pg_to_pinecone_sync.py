@@ -111,9 +111,9 @@ def sync_pg_to_pinecone(config: Dict[str, Any]) -> None:
         print("[sync_pg_to_pinecone] No articles found in news_articles table.")
         return
 
-    print(f"[sync_pg_to_pinecone] Syncing {len(articles)} articles to Pinecone...")
+    print(f"[sync_pg_to_pinecone] Syncing {len(articles)} articles to Pinecone (limit={limit})...")
 
-    for article in articles:
+    for idx, article in enumerate(articles, start=1):
         article_id = str(article["id"])
         base_meta = {
             "article_id": article_id,
@@ -134,6 +134,7 @@ def sync_pg_to_pinecone(config: Dict[str, Any]) -> None:
 
         chunks = chunk_document(doc)
         if not chunks:
+            print(f"[sync_pg_to_pinecone] Article {article_id} produced 0 chunks; skipping.")
             continue
 
         texts = [c["text"] for c in chunks]
@@ -148,7 +149,16 @@ def sync_pg_to_pinecone(config: Dict[str, Any]) -> None:
             chunk_meta.update(chunk.get("meta", {}))
             metadatas.append(_sanitize_metadata(chunk_meta))
 
-        vdb.upsert(ids, vectors, metadatas)
+        try:
+            print(
+                f"[sync_pg_to_pinecone] Upserting article {article_id} "
+                f"({idx}/{len(articles)}), chunks={len(chunks)}, vectors={len(vectors)}"
+            )
+            vdb.upsert(ids, vectors, metadatas)
+        except Exception as e:  # pragma: no cover - diagnostic logging
+            print(f"[sync_pg_to_pinecone] ERROR upserting article {article_id}: {e}")
+            # continue with the next article instead of aborting the whole sync
+            continue
 
     print("[sync_pg_to_pinecone] Done.")
 
