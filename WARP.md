@@ -1,3 +1,85 @@
+{
+  "query": "latest news on politics",
+  "contexts": [
+    {
+      "id": "the_hindu/india/www.thehindu.com_news_national_karnataka_cens-scientists-mak..._9ccfbf6bd385::chunk_1",
+      "score": 1.0,
+      "metadata": {
+        "article_id": "the_hindu/india/www.thehindu.com_news_national_karnataka_cens-scientists-mak..._9ccfbf6bd385",
+        "category": "india",
+        "chunk_index": 1,
+        "section": "india",
+        "site": "the_hindu",
+        "status_code": 200,
+        "timestamp": "2025-11-28T22:13:24.103542Z",
+        "title": "CeNS scientists make breakthrough in the development of eco-friendly batteries - The Hindu",
+        "url": "https://www.thehindu.com/news/national/karnataka/cens-scientists-make-breakthrough-in-the-development-of-eco-friendly-batteries/article70335424.ece"
+      }
+    },
+    {
+      "id": "the_hindu/india/www.thehindu.com_news_national_karnataka_cens-scientists-mak..._9ccfbf6bd385::chunk_2",
+      "score": 1.0,
+      "metadata": {
+        "article_id": "the_hindu/india/www.thehindu.com_news_national_karnataka_cens-scientists-mak..._9ccfbf6bd385",
+        "category": "india",
+        "chunk_index": 2,
+        "section": "india",
+        "site": "the_hindu",
+        "status_code": 200,
+        "timestamp": "2025-11-28T22:13:24.103542Z",
+        "title": "CeNS scientists make breakthrough in the development of eco-friendly batteries - The Hindu",
+        "url": "https://www.thehindu.com/news/national/karnataka/cens-scientists-make-breakthrough-in-the-development-of-eco-friendly-batteries/article70335424.ece"
+      }
+    },
+    {
+      "id": "the_hindu/india/www.thehindu.com_news_national_karnataka_cens-scientists-mak..._9ccfbf6bd385::chunk_3",
+      "score": 1.0,
+      "metadata": {
+        "article_id": "the_hindu/india/www.thehindu.com_news_national_karnataka_cens-scientists-mak..._9ccfbf6bd385",
+        "category": "india",
+        "chunk_index": 3,
+        "section": "india",
+        "site": "the_hindu",
+        "status_code": 200,
+        "timestamp": "2025-11-28T22:13:24.103542Z",
+        "title": "CeNS scientists make breakthrough in the development of eco-friendly batteries - The Hindu",
+        "url": "https://www.thehindu.com/news/national/karnataka/cens-scientists-make-breakthrough-in-the-development-of-eco-friendly-batteries/article70335424.ece"
+      }
+    },
+    {
+      "id": "news:1::chunk_0",
+      "score": 1.0,
+      "metadata": {
+        "article_id": "1",
+        "category": "india",
+        "chunk_index": 0,
+        "site": "aaj_tak",
+        "status_code": 200,
+        "timestamp": "2025-11-28T18:37:02.362829Z",
+        "title": "मंत्री जगह सिंह नेगी की RSS पर टिप्पणी को लेकर हिमाचल विधानसभा में BJP सदस्यों का हंगामा - BJP members create ruckus in Himachal Assembly over Minister Jagan Singh Negi's remarks on RSS ntc - AajTak",
+        "url": "https://www.aajtak.in/india/himachal-pradesh/story/bjp-members-create-ruckus-in-himachal-assembly-over-minister-jagan-singh-negis-remarks-on-rss-ntc-dskc-2399068-2025-11-28"
+      }
+    },
+    {
+      "id": "the_hindu/india/www.thehindu.com_news_national_karnataka_cens-scientists-mak..._9ccfbf6bd385::chunk_0",
+      "score": 1.0,
+      "metadata": {
+        "article_id": "the_hindu/india/www.thehindu.com_news_national_karnataka_cens-scientists-mak..._9ccfbf6bd385",
+        "category": "india",
+        "chunk_index": 0,
+        "section": "india",
+        "site": "the_hindu",
+        "status_code": 200,
+        "timestamp": "2025-11-28T22:13:24.103542Z",
+        "title": "CeNS scientists make breakthrough in the development of eco-friendly batteries - The Hindu",
+        "url": "https://www.thehindu.com/news/national/karnataka/cens-scientists-make-breakthrough-in-the-development-of-eco-friendly-batteries/article70335424.ece"
+      }
+    }
+  ],
+  "answer": "Stub answer for: latest news on politics"
+}
+
+
 # WARP.md
 
 This file provides guidance to WARP (warp.dev) when working with code in this repository.

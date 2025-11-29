@@ -1,0 +1,400 @@
+  * [Aaj Tak](https://www.aajtak.in "Aaj Tak")
+  * [ई-पेपर](https://epaper.aajtak.in/ "ई-पेपर")
+  * [বাংলা](https://bangla.aajtak.in "বাংলা")
+  * [GNTTV](https://www.gnttv.com "GNTTV")
+  * [India Today](https://www.indiatoday.in "India Today")
+  * [Malayalam](https://malayalam.indiatoday.in "Malayalam")
+  * [Business Today](https://www.businesstoday.in "Business Today")
+  * [Lallantop](https://www.thelallantop.com "Lallantop")
+  * [इंडिया टुडे हिंदी](https://www.indiatodayhindi.com "इंडिया टुडे हिंदी")
+  * [NewsTak](https://www.newstak.in "NewsTak")
+  * [UPTak](https://www.uptak.in "UPTak")
+  * [Sports Tak](https://thesportstak.com "Sports Tak")
+  * [KisanTak](https://www.kisantak.in "KisanTak")
+    * [MumbaiTak](https://www.mumbaitak.in "MumbaiTak")
+    * [BT Bazaar](https://bazaar.businesstoday.in "BT Bazaar")
+    * [Cosmopolitan](https://www.cosmopolitan.in "Cosmopolitan")
+    * [Harper's Bazaar](https://www.harpersbazaar.in "Harper's Bazaar")
+    * [Northeast](https://www.indiatodayne.in "Northeast")
+    * [Brides Today](https://www.bridestoday.in "Brides Today")
+    * [Reader’s Digest](https://www.readersdigest.in "Reader’s Digest")
+    * [Astro Tak](https://www.astrotak.com "Astro Tak")
+
+
+Sign In
+[ ![aajtak hindi news](https://akm-img-a-in.tosshub.com/aajtak/resource/img/aajtak-logo-153X116-v2.png) ![aajtak hindi news](https://akm-img-a-in.tosshub.com/aajtak/resource/img/bemisaal-20-saal/aajtak-logo-71X52.png) ](https://www.aajtak.in "आज तक")
+  * ![aajtak logo](https://akm-img-a-in.tosshub.com/aajtak/resource/img/aajtak-logo-153X116-v2.png)
+[ ![aaj tak epaper in hindi](https://akm-img-a-in.tosshub.com/sites/aajtak/images/epaper/navEpaperr.svg) ](https://epaper.aajtak.in)
+Sign In
+
+
+Edition
+  * [US](https://www.aajtak.in/?region=us&utm_source=click&utm_medium=at-us)
+
+
+  * [होम](https://www.aajtak.in "होम")
+  * [ई-पेपर](https://epaper.aajtak.in/ "ई-पेपर")
+  * [भारत](https://www.aajtak.in/india "भारत")
+    * [देश](https://www.aajtak.in/india "देश")
+    * [दिल्ली](https://www.aajtak.in/india/delhi "दिल्ली")
+    * [उत्तर प्रदेश](https://www.aajtak.in/uttar-pradesh "उत्तर प्रदेश")
+    * [मध्य प्रदेश](https://www.aajtak.in/madhya-pradesh "मध्य प्रदेश")
+    * [राजस्थान](https://www.aajtak.in/rajasthan "राजस्थान")
+    * [बिहार](https://www.aajtak.in/bihar "बिहार")
+    * [पंजाब](https://www.aajtak.in/india/punjab "पंजाब")
+    * [हरियाणा](https://www.aajtak.in/india/haryana "हरियाणा")
+    * [पश्चिम बंगाल](https://www.aajtak.in/west-bengal "पश्चिम बंगाल")
+    * [ओडिशा](https://www.aajtak.in/odisha "ओडिशा")
+    * [हिमाचल प्रदेश](https://www.aajtak.in/india/himachal-pradesh "हिमाचल प्रदेश")
+    * [महाराष्ट्र](https://www.aajtak.in/india/maharashtra "महाराष्ट्र")
+    * [झारखंड](https://www.aajtak.in/india/jharkhand "झारखंड")
+    * [उत्तराखंड](https://www.aajtak.in/india/uttarakhand "उत्तराखंड")
+    * [छत्तीसगढ़](https://www.aajtak.in/india/chhattisgarh "छत्तीसगढ़")
+    * [गुजरात](https://www.aajtak.in/india/gujarat "गुजरात")
+    * [जम्मू कश्मीर](https://www.aajtak.in/india/jammu-kashmir "जम्मू कश्मीर")
+    * [कर्नाटक](https://www.aajtak.in/karnataka "कर्नाटक")
+    * [तेलंगाना](https://www.aajtak.in/india/telangana "तेलंगाना")
+  * [मनोरंजन](https://www.aajtak.in/entertainment "मनोरंजन")
+    * [लेटेस्ट न्यूज](https://www.aajtak.in/entertainment "लेटेस्ट न्यूज")
+    * [बिग बॉस](https://www.aajtak.in/topic/bigg-boss "बिग बॉस")
+    * [साउथ सिनेमा](https://www.aajtak.in/topic/south-cinema "साउथ सिनेमा")
+    * [भोजपुरी](https://www.aajtak.in/topic/bhojpuri-cinema "भोजपुरी")
+    * [वीडियो](https://www.aajtak.in/entertainment/videos "वीडियो")
+    * [टीवी](https://www.aajtak.in/entertainment/television "टीवी")
+    * [वेब स्टोरी](https://www.aajtak.in/visualstories/entertainment "वेब स्टोरी")
+    * [फिल्म रिव्यू](https://www.aajtak.in/entertainment/film-review "फिल्म रिव्यू")
+  * [धर्म](https://www.aajtak.in/religion "धर्म")
+    * [लेटेस्ट](https://www.aajtak.in/religion "लेटेस्ट")
+    * [राशिफल](https://www.aajtak.in/religion/rashiphal "राशिफल")
+    * [टैरो राशिफल](https://www.aajtak.in/religion/rashiphal/tarot "टैरो राशिफल")
+    * [लव राशिफल](https://www.aajtak.in/religion/rashiphal/love "लव राशिफल")
+    * [आर्थिक राशिफल](https://www.aajtak.in/religion/rashiphal/arthik "आर्थिक राशिफल")
+    * [करियर राशिफल](https://www.aajtak.in/religion/rashiphal/career "करियर राशिफल")
+    * [मूलांक राशिफल](https://www.aajtak.in/religion/rashiphal/numerology "मूलांक राशिफल")
+    * [विजुअल स्टोरी](https://www.aajtak.in/visualstories/religion "विजुअल स्टोरी")
+    * [वीडियो](https://www.aajtak.in/religion/videos "वीडियो")
+    * [वास्तु शास्त्र](https://www.aajtak.in/topic/vastu-shastra "वास्तु शास्त्र")
+    * [पर्व-त्यौहार](https://www.aajtak.in/religion/festivals "पर्व-त्यौहार")
+    * [आरती संग्रह](https://www.aajtak.in/topic/aarti "आरती संग्रह")
+    * [पूजा-पाठ](https://www.aajtak.in/religion/worship "पूजा-पाठ")
+
+
+  * ![aajtak hindi news](https://akm-img-a-in.tosshub.com/aajtak/resource/img/aajtak-logo-153X116-v2.png)
+[ ![aaj tak epaper in hindi](https://akm-img-a-in.tosshub.com/sites/aajtak/images/epaper/navEpaperr.svg) ](https://epaper.aajtak.in)
+
+
+* [लाइफस्टाइल](https://www.aajtak.in/lifestyle "लाइफस्टाइल")
+* [वेब स्टोरी](https://www.aajtak.in/visualstories "वेब स्टोरी")
+* [खेल](https://www.aajtak.in/sports "खेल")
+  * [एशेज](https://www.aajtak.in/topic/ashes-series-2023 "एशेज")
+  * [खेल न्यूज](https://www.aajtak.in/sports "खेल न्यूज")
+  * [क्रिकेट न्यूज](https://www.aajtak.in/sports/cricket "क्रिकेट न्यूज")
+  * [विजुअल स्टोरी](https://www.aajtak.in/visualstories/sports "विजुअल स्टोरी")
+  * [वीडियो](https://www.aajtak.in/sports/videos "वीडियो")
+  * [आगामी मैच](https://www.aajtak.in/live-score/upcoming "आगामी मैच")
+
+
+[वीडियो](https://www.aajtak.in/videos "वीडियो")
+[बिजनेस](https://www.aajtak.in/business "बिजनेस")
+  * [बिजनेस न्यूज](https://www.aajtak.in/business "बिजनेस न्यूज")
+  * [रियल एस्टेट](https://www.aajtak.in/business/real-estate "रियल एस्टेट")
+  * [वेब स्टोरी](https://www.aajtak.in/visualstories/business "वेब स्टोरी")
+  * [स्टॉक अपडेट्स](https://www.aajtak.in/business/stock-list "स्टॉक अपडेट्स")
+  * [हॉट स्टॉक](https://www.aajtak.in/hottest-stocks-of-today-this-week-month-and-year "हॉट स्टॉक")
+  * [क्रिप्टो](https://www.aajtak.in/interactive/cryptocurrency-price-in-india-bitcoin-ethereum-dogecoin-ripple-litecoin/bitcoin-price-in-india-today "क्रिप्टो")
+  * [गोल्ड-सिल्वर रेट](https://www.aajtak.in/commodity/gold-rate-in-delhi-today "गोल्ड-सिल्वर रेट")
+  * [पेट्रोल-डीजल रेट](https://www.aajtak.in/fuel-price/petrol-price-in-delhi-today "पेट्रोल-डीजल रेट")
+  * [CNG रेट](https://www.aajtak.in/fuel-price/cng-price-in-delhi-today "CNG रेट")
+  * [इनकम टैक्स कैलकुलेटर](https://www.aajtak.in/business/tools-and-calculators/income-tax-calculator "इनकम टैक्स कैलकुलेटर")
+
+
+[कला-संस्कृति](https://www.aajtak.in/art-and-culture "कला-संस्कृति")
+[AI](https://www.aajtak.in/topic/artificial-intelligence "AI")
+  * [AI Sana](https://www.aajtak.in/anchor/ai-sana "AI Sana")
+  * [अन्य AI एंकर्स](https://www.aajtak.in/author/ai-anchors "अन्य AI एंकर्स")
+  * [AI की पाठशाला](https://www.aajtak.in/topic/ai-ki-pathshala "AI की पाठशाला")
+
+
+[विश्व](https://www.aajtak.in/world "विश्व")
+[जुर्म](https://www.aajtak.in/crime "जुर्म")
+[टेक्नोलॉजी](https://www.aajtak.in/technology "टेक्नोलॉजी")
+  * [टेक न्यूज](https://www.aajtak.in/technology "टेक न्यूज")
+  * [वेब स्टोरीज](https://www.aajtak.in/visualstories/technology "वेब स्टोरीज")
+  * [वीडियो](https://www.aajtak.in/technology/videos "वीडियो")
+  * [कंज्यूमर इलेक्ट्रॉनिक्स](https://www.aajtak.in/topic/consumer-electronics "कंज्यूमर इलेक्ट्रॉनिक्स")
+  * [टिप्स-ट्रिक्स](https://www.aajtak.in/technology/tech-tips-and-tricks "टिप्स-ट्रिक्स")
+  * [टेक डील्स](https://www.aajtak.in/technology/tech-deals "टेक डील्स")
+  * [रिव्यूज](https://www.aajtak.in/technology/reviews "रिव्यूज")
+
+
+[पिछले चुनाव](https://www.aajtak.in/elections/assembly-chunav "पिछले चुनाव")
+  * [बिहार चुनाव](https://www.aajtak.in/elections/assembly-chunav/bihar "बिहार चुनाव")
+  * [बिहार विजेता](https://www.aajtak.in/elections/assembly-chunav/bihar/constituency-list "बिहार विजेता")
+  * [दिल्ली चुनाव](https://www.aajtak.in/elections/assembly-chunav/delhi "दिल्ली चुनाव")
+  * [दिल्ली विजेता](https://www.aajtak.in/elections/assembly-chunav/delhi/constituency-list "दिल्ली विजेता")
+  * [महाराष्ट्र चुनाव](https://www.aajtak.in/elections/assembly-chunav/maharashtra "महाराष्ट्र चुनाव")
+  * [महाराष्ट्र विजेता](https://www.aajtak.in/elections/assembly-chunav/maharashtra/constituency-list "महाराष्ट्र विजेता")
+  * [झारखंड चुनाव](https://www.aajtak.in/elections/assembly-chunav/jharkhand "झारखंड चुनाव")
+  * [झारखंड विजेता](https://www.aajtak.in/elections/assembly-chunav/jharkhand/constituency-list "झारखंड विजेता")
+  * [जम्मू-कश्मीर चुनाव](https://www.aajtak.in/elections/assembly-chunav/jammu-and-kashmir "जम्मू-कश्मीर चुनाव")
+  * [J&K विजेता](https://www.aajtak.in/elections/assembly-chunav/jammu-and-kashmir/constituency-list "J&K विजेता")
+  * [हरियाणा चुनाव](https://www.aajtak.in/elections/assembly-chunav/haryana "हरियाणा चुनाव")
+  * [हरियाणा विजेता](https://www.aajtak.in/elections/assembly-chunav/haryana/constituency-list "हरियाणा विजेता")
+  * [लोकसभा चुनाव](https://www.aajtak.in/elections/lok-sabha-election-2024 "लोकसभा चुनाव")
+  * [लोकसभा विजेता](https://www.aajtak.in/elections/lok-sabha-election-2024/constituency-list "लोकसभा विजेता")
+  * [अरुणाचल प्रदेश चुनाव](https://www.aajtak.in/elections/assembly-chunav/arunachal-pradesh "अरुणाचल प्रदेश चुनाव")
+  * [अरुणाचल प्रदेश विजेता](https://www.aajtak.in/elections/assembly-chunav/arunachal-pradesh/constituency-list "अरुणाचल प्रदेश विजेता")
+  * [सिक्किम चुनाव](https://www.aajtak.in/elections/assembly-chunav/sikkim "सिक्किम चुनाव")
+  * [सिक्किम विजेता](https://www.aajtak.in/elections/assembly-chunav/sikkim/constituency-list "सिक्किम विजेता")
+  * [आंध्र प्रदेश चुनाव](https://www.aajtak.in/elections/assembly-chunav/andhra-pradesh "आंध्र प्रदेश चुनाव")
+  * [आंध्र प्रदेश विजेता](https://www.aajtak.in/elections/assembly-chunav/andhra-pradesh/constituency-list "आंध्र प्रदेश विजेता")
+  * [ओडिशा चुनाव](https://www.aajtak.in/elections/assembly-chunav/odisha "ओडिशा चुनाव")
+  * [ओडिशा विजेता](https://www.aajtak.in/elections/assembly-chunav/odisha/constituency-list "ओडिशा विजेता")
+
+
+[Explained](https://www.aajtak.in/explained "Explained")
+[सैर-सपाटा](https://www.aajtak.in/travel "सैर-सपाटा")
+[डिफेंस न्यूज](https://www.aajtak.in/defence-news "डिफेंस न्यूज")
+[कार्यक्रम](https://www.aajtak.in/programmes "कार्यक्रम")
+[एजुकेशन](https://www.aajtak.in/education "एजुकेशन")
+  * [बोर्ड रिजल्ट](https://www.aajtak.in/education/board-exam-results "बोर्ड रिजल्ट")
+  * [सक्सेस स्टोरी](https://www.aajtak.in/topic/success-story "सक्सेस स्टोरी")
+  * [एजुकेशन न्यूज](https://www.aajtak.in/education/news "एजुकेशन न्यूज")
+  * [जॉब्स एंड करियर](https://www.aajtak.in/education/career "जॉब्स एंड करियर")
+  * [नॉलेज](https://www.aajtak.in/education/knowledge "नॉलेज")
+  * [पर्सनैलिटी डेवलपमेंट](https://www.aajtak.in/education/personality-development "पर्सनैलिटी डेवलपमेंट")
+  * [विजुअल स्टोरी](https://www.aajtak.in/visualstories/education "विजुअल स्टोरी")
+
+
+[साइंस न्यूज़](https://www.aajtak.in/science "साइंस न्यूज़")
+[फुल कवरेज](https://www.aajtak.in/full-coverage "फुल कवरेज")
+[इन्टरैक्टिव](https://www.aajtak.in/interactive "इन्टरैक्टिव")
+[ऑटो](https://www.aajtak.in/auto "ऑटो")
+[ट्रेंडिंग](https://www.aajtak.in/trending "ट्रेंडिंग")
+[फैक्ट चेक](https://www.aajtak.in/fact-check "फैक्ट चेक")
+[क्विज़](https://www.aajtak.in/quiz "क्विज़")
+[हेल्थ](https://www.aajtak.in/health "हेल्थ")
+[कृषि समाचार](https://www.aajtak.in/agriculture "कृषि समाचार")
+[लीगल न्यूज़](https://www.aajtak.in/legal-news "लीगल न्यूज़")
+[फोटो](https://www.aajtak.in/photos "फोटो")
+[आपका पेज](https://www.aajtak.in/foryou "आपका पेज")
+[पेट्रोल-डीजल](https://www.aajtak.in/fuel-price/petrol-price-in-delhi-today "पेट्रोल-डीजल")
+[मौसम](https://www.aajtak.in/weather/delhi-weather-forecast-today "मौसम")
+[साहित्य](https://www.aajtak.in/literature "साहित्य")
+[एंकर्स](https://www.aajtak.in/anchors "एंकर्स")
+[अर्काइव](https://www.aajtak.in/archive "अर्काइव")
+[गेम्स](https://www.aajtak.in/games "गेम्स")
+[বাংলা](https://bangla.aajtak.in "বাংলা")
+[रेट कार्ड](https://www.aajtak.in/rate-card "रेट कार्ड")
+[निवेशक (Investor)](https://www.aajtak.in/investor "निवेशक \(Investor\)")
+X
+Edition
+  * [US](https://www.aajtak.in/?region=us&utm_source=click&utm_medium=at-us)
+
+
+[ ![aaj tak epaper in hindi](https://akm-img-a-in.tosshub.com/sites/aajtak/images/epaper/navTopEpaperr.svg) ](https://epaper.aajtak.in)
+[ ](https://www.aajtak.in/weather/delhi-air-quality-index-aqi-today "AQI")
+20
+#### NOTIFICATIONS
+28th Nov
+![loading...](https://akm-img-a-in.tosshub.com/sites/aajtak/preload-img/pre-loader2.png)
+
+
+[ ![Aajtak podcast](https://akm-img-a-in.tosshub.com/aajtak/resource/img/ATradio.webp) ](https://podcasts.aajtak.in/ "Podcast")
+[](https://www.aajtak.in/livetv "Live TV")
+Hindi
+English
+  * [Hindi News](https://www.aajtak.in "Hindi News")
+  * [उत्तर प्रदेश](https://www.aajtak.in/uttar-pradesh "उत्तर प्रदेश")
+
+
+[ ![aaj tak epaper in hindi](https://akm-img-a-in.tosshub.com/sites/aajtak/images/epaper/storyBadcumEpaperr.svg)](https://epaper.aajtak.in)
+[](https://www.aajtak.in/userfeedback?ref=uttar-pradesh%2Fstory%2Fcough-syrup-syndicate-purvanchal-bahubali-photos-of-smugglers-shubham-and-amit-with-dhananjay-singh-mla-sushil-lclam-strc-2398777-2025-11-28&feedbackto=story&siteId=1&type=feedback) [Feedback](https://www.aajtak.in/userfeedback?ref=uttar-pradesh%2Fstory%2Fcough-syrup-syndicate-purvanchal-bahubali-photos-of-smugglers-shubham-and-amit-with-dhananjay-singh-mla-sushil-lclam-strc-2398777-2025-11-28&feedbackto=story&siteId=1&type=feedback)
+# कफ सिरप सिंडिकेट: बाहुबलियों से कनेक्शन! तस्कर शुभम-अमित की धनंजय सिंह, सुशील सिंह के साथ तस्वीरें वायरल
+## प्रतिबंधित कफ सिरप तस्करी के आरोपी शुभम जायसवाल और अमित सिंह टाटा के धनंजय सिंह और विधायक सुशील सिंह से गहरे संबंध हैं. दोनों नेता अमित टाटा को 'छोटा भाई' बता रहे हैं. अमित टाटा की 9777 नंबर वाली फॉर्च्यूनर, जो धनंजय सिंह की गाड़ियों का नंबर है, करीबी दर्शाती है. ये तस्कर हवाला से करोड़ों का लेन-देन करते थे.
+Advertisement
+X
+![बाहुबली धनंजय सिंह के साथ शुभम जायसवाल और अमित सिंह टाटा \(Photo- Screengrab\)](https://akm-img-a-in.tosshub.com/aajtak/images/story/202511/69298e26d7659-shubham-jaiswal-and-amit-singh-tata-with-baahubali-dhananjay-singh-photo--screengrab-285721525-16x9.jpg?size=948:533)
+बाहुबली धनंजय सिंह के साथ शुभम जायसवाल और अमित सिंह टाटा (Photo- Screengrab)
+![संतोष शर्मा](https://akm-img-a-in.tosshub.com/aajtak/resource/img/default-45x45.webp?imbypass=1)
+#### [संतोष शर्मा](https://www.aajtak.in/author/santosh-kumar-sharma "संतोष शर्मा")
+  * लखनऊ ,
+  * 28 नवंबर 2025,
+  * (अपडेटेड 28 नवंबर 2025, 5:31 PM IST)
+
+
+  * [ ](https://web.whatsapp.com:/send?text=%E0%A4%95%E0%A4%AB+%E0%A4%B8%E0%A4%BF%E0%A4%B0%E0%A4%AA+%E0%A4%B8%E0%A4%BF%E0%A4%82%E0%A4%A1%E0%A4%BF%E0%A4%95%E0%A5%87%E0%A4%9F%3A+%E0%A4%AC%E0%A4%BE%E0%A4%B9%E0%A5%81%E0%A4%AC%E0%A4%B2%E0%A4%BF%E0%A4%AF%E0%A5%8B%E0%A4%82+%E0%A4%B8%E0%A5%87+%E0%A4%95%E0%A4%A8%E0%A5%87%E0%A4%95%E0%A5%8D%E0%A4%B6%E0%A4%A8%21+%E0%A4%A4%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%B0+%E0%A4%B6%E0%A5%81%E0%A4%AD%E0%A4%AE-%E0%A4%85%E0%A4%AE%E0%A4%BF%E0%A4%A4+%E0%A4%95%E0%A5%80+%E0%A4%A7%E0%A4%A8%E0%A4%82%E0%A4%9C%E0%A4%AF+%E0%A4%B8%E0%A4%BF%E0%A4%82%E0%A4%B9%2C+%E0%A4%B8%E0%A5%81%E0%A4%B6%E0%A5%80%E0%A4%B2+%E0%A4%B8%E0%A4%BF%E0%A4%82%E0%A4%B9+%E0%A4%95%E0%A5%87+%E0%A4%B8%E0%A4%BE%E0%A4%A5+%E0%A4%A4%E0%A4%B8%E0%A5%8D%E0%A4%B5%E0%A5%80%E0%A4%B0%E0%A5%87%E0%A4%82+%E0%A4%B5%E0%A4%BE%E0%A4%AF%E0%A4%B0%E0%A4%B2%20via%20@aajtak%20https://intdy.in/u8961i%0D%0A%0D%0ADownload%20the%20Aaj%20Tak%20app%20now%20to%20read%20our%20latest%20stories%0D%0Ahttps://app.aajtak.link/d/o5NdCLWag0)
+
+
+  * फेसबुक
+  * टि्वटर
+  * कैंसिल
+
+
+  * [](https://auth.indiatoday.in/saml_login/other/aHR0cHM6Ly93d3cuYWFqdGFrLmluL3V0dGFyLXByYWRlc2gvc3RvcnkvY291Z2gtc3lydXAtc3luZGljYXRlLXB1cnZhbmNoYWwtYmFodWJhbGktcGhvdG9zLW9mLXNtdWdnbGVycy1zaHViaGFtLWFuZC1hbWl0LXdpdGgtZGhhbmFuamF5LXNpbmdoLW1sYS1zdXNoaWwtbGNsYW0tc3RyYy0yMzk4Nzc3LTIwMjUtMTEtMjgjc3NvbG9naW49MQ==)
+  * [![](https://akm-img-a-in.tosshub.com/aajtak/images/video/202203/google-news.png) Follow us](https://news.google.com/publications/CAAqBwgKMJLk3Aow1OzOAQ?hl=hi&gl=IN&ceid=IN%3Ahi)
+  * कैंसिल
+
+
+प्रतिबंधित कफ सिरप तस्करी के सिंडिकेट किंगपिन शुभम जायसवाल और उसके पार्टनर अमित सिंह टाटा के पूर्वांचल के बाहुबली नेताओं से करीबी संबंध सामने आए हैं. सोशल मीडिया पर धनंजय सिंह और बीजेपी विधायक सुशील सिंह के साथ उनकी तस्वीरें और वीडियो वायरल हुए हैं. यह भी जानकारी सामने आई है कि दोनों तस्कर- शुभम और अमित हर साल दुबई और पटाया की सैर करते थे और करोड़ों का लेन-देन हवाला के जरिए करते थे.
+और पढ़ें
+**फॉर्च्यूनर और 9777 नंबर का राज**
+वायरल वीडियो में सैयद राजा से बीजेपी विधायक सुशील सिंह अमित सिंह टाटा को अपना छोटा भाई बता रहे हैं. वहीं, एक अन्य वीडियो में पूर्व सांसद व माफिया धनंजय सिंह भी अमित टाटा को अपना छोटा भाई कहते दिख रहे हैं. 
+## सम्बंधित ख़बरें
+[ ![Lucknow police arrested thugs Premshankar and Santosh \(Photo- ITG\)](https://akm-img-a-in.tosshub.com/aajtak/images/story/202511/69294ea899183-lucknow-police-arrested-thugs-premshankar-and-santosh-photo--itg-282626440-16x9.jpeg?size=98:55) ठगी का 'कॉर्पोरेट मॉडल': 50 कर्मचारी, लग्जरी कार में एंट्री... प्रेमशंकर ने ऐसे लूटे करोड़ों  ](https://www.aajtak.in/uttar-pradesh/story/corporate-model-of-fraud-how-cunning-premshankar-looted-crores-rs-neet-exam-lucknow-police-lclam-strc-2398493-2025-11-28?utm_source=Internal_AT&utm_medium=Article&utm_name=Read_More_1 "ठगी का 'कॉर्पोरेट मॉडल': 50 कर्मचारी, लग्जरी कार में एंट्री... प्रेमशंकर ने ऐसे लूटे करोड़ों ")
+[ ![Bamboo Manipur Ice Age](https://akm-img-a-in.tosshub.com/aajtak/images/story/202511/692943ef441bd-bamboo-manipur-ice-age-284041641-16x9.jpg?size=98:55) मणिपुर में मिला 37 हजार साल पुराना कांटेदार बांस... हिमयुग के रहस्य का खुलासा  ](https://www.aajtak.in/science/story/37000-year-old-thorny-bamboo-found-in-manipur-reveals-the-secret-of-the-ice-age-dskc-2398458-2025-11-28?utm_source=Internal_AT&utm_medium=Article&utm_name=Read_More_1 "मणिपुर में मिला 37 हजार साल पुराना कांटेदार बांस... हिमयुग के रहस्य का खुलासा")
+[ ![Shubham Jaiswal and Amit Singh 'Tata' \(Photo- ITG\)](https://akm-img-a-in.tosshub.com/aajtak/images/story/202511/69293567e9338-shubham-jaiswal-and-amit-singh-tata-photo--itg-283842105-16x9.jpg?size=98:55) दुबई से चल रहा था सिरप तस्करी का सिंडिकेट! अमित 'टाटा' की गिरफ्तारी से बड़ा खुलासा  ](https://www.aajtak.in/uttar-pradesh/story/phensedyl-syrup-smuggling-syndicate-operating-from-dubai-amit-singh-tata-kingpin-shubham-jaiswal-lclam-rptc-2398409-2025-11-28?utm_source=Internal_AT&utm_medium=Article&utm_name=Read_More_1 "दुबई से चल रहा था सिरप तस्करी का सिंडिकेट! अमित 'टाटा' की गिरफ्तारी से बड़ा खुलासा ")
+[ ![डेट ऑफ बर्थ को लेकर यूपी सरकार ने जारी किया आदेश. \(Photo: Representational\)](https://akm-img-a-in.tosshub.com/aajtak/images/story/202511/6929015d31725-aadhaar-not-accepted-as-date-of-birth-proof-up-government-order-285639243-16x9.jpg?size=98:55) यूपी में आधार अब जन्मतिथि प्रमाण के रूप में मान्य नहीं  ](https://www.aajtak.in/uttar-pradesh/story/aadhaar-not-accepted-as-date-of-birth-proof-up-govt-order-lcla-rpti-2398256-2025-11-28?utm_source=Internal_AT&utm_medium=Article&utm_name=Read_More_1 "यूपी में आधार अब जन्मतिथि प्रमाण के रूप में मान्य नहीं")
+[ ![सीएम योगी आदित्यनाथ ने की घोषणा. \(File Photo: ITG\)](https://akm-img-a-in.tosshub.com/aajtak/images/story/202511/69280d7563fba-up-government-to-rename-fazilnagar-as-pava-nagri-cm-yogi-273557987-16x9.jpg?size=98:55) फाजिलनगर का नाम बदलकर होगा पावा नगरी, CM योगी ने की घोषणा  ](https://www.aajtak.in/uttar-pradesh/story/up-government-to-rename-fazilnagar-as-pava-nagri-cm-yogi-lcla-rpti-2397742-2025-11-27?utm_source=Internal_AT&utm_medium=Article&utm_name=Read_More_1 "फाजिलनगर का नाम बदलकर होगा पावा नगरी, CM योगी ने की घोषणा")
+गौरतलब है कि एसटीएफ को अमित सिंह टाटा से एक फॉर्च्यूनर गाड़ी मिली है, जिसका नंबर 9777 है. यह नंबर धनंजय सिंह की सभी गाड़ियों का होता है, जो अमित सिंह टाटा की करीबी को दर्शाता है. यह गाड़ी अमित की पत्नी साक्षी सिंह के नाम पर है और अक्सर धनंजय के काफिले में चलती थी. [वाराणसी](https://www.aajtak.in/topic/varanasi) के शुभम जायसवाल की भी धनंजय सिंह के साथ तस्वीरें वायरल हुई हैं.
+**करोड़ों का मुनाफा और पंचायत चुनाव की तैयारी**
+एसटीएफ की पूछताछ में अमित सिंह टाटा ने कबूल किया कि धनबाद की देव कृपा मेडिकल एजेंसी और वाराणसी में श्री मेडिकल उनकी फर्म थीं, लेकिन काम शुभम जायसवाल और उसकी टीम देखती थी. तस्करी का यह सिंडिकेट बांग्लादेश तक फैला हुआ था और इसमें नकद लेनदेन सबसे ज्यादा होता था. [जौनपुर](https://www.aajtak.in/topic/jaunpur) का रहने वाला अमित सिंह टाटा इसी पैसे के दम पर आने वाले पंचायत चुनावों में ब्लॉक प्रमुख बनने की तैयारी में था.
+Advertisement
+**5 लाख के बदले 30 लाख के मुनाफे का लालच**
+बताया जा रहा है कि कफ सिरप तस्करी में 5 लाख के बदले 30 लाख रूपये के मुनाफे को देख अमित सिंह शुभम जायसवाल का पार्टनर बना था. सोशल मीडिया पर अमित और शुभम की दुबई सफारी की तस्वीर भी सामने आई हैं. 
+मालूम हो कि यूपी एसटीएफ ने ₹100 करोड़ से अधिक की Phensedyl कफ सिरप तस्करी के मामले में अमित सिंह 'टाटा' को गिरफ्तार किया है. दुबई भाग चुका शुभम जायसवाल इस सिंडिकेट का किंगपिन है. ये लोग झारखंड से फर्म बनाकर सिरप की सप्लाई बांग्लादेश तक कर रहे थे.
+जांच में सामने आया कि फर्जीवाड़े के कारण कंपनी द्वारा प्रोडक्शन बंद करने के बावजूद शुभम की दो फर्म सुपर स्टॉकिस्ट थीं. शुभम ने तस्करी से करोड़ों की प्रॉपर्टी बनाई है. एसटीएफ ने शुभम के लिए लुक आउट नोटिस जारी किया है और उसके बाहुबली कनेक्शन की भी जांच कर रही है. अमित सिंह टाटा, विभोर राणा और शुभम जायसवाल मिलकर यह नेटवर्क चला रहे थे.
+---- समाप्त ----
+ये भी देखें
+[![Live TV](https://akm-img-a-in.tosshub.com/aajtak/resource/img/LIVE_TV_BUTTON.gif)](https://www.aajtak.in/livetv?utm_source=sp_livetvicon)
+[ ![aaj tak epaper in hindi](https://akm-img-a-in.tosshub.com/sites/aajtak/images/epaper/storyBadcumEpaperBottomm.svg)](https://epaper.aajtak.in)
+[ ](https://www.whatsapp.com/channel/0029Va7Rxc32ER6hBAuIL222)
+TOPICS:
+  * [लखनऊ](https://www.aajtak.in/topic/lucknow "लखनऊ")
+
+
+[](https://web.whatsapp.com:/send?text=%E0%A4%95%E0%A4%AB+%E0%A4%B8%E0%A4%BF%E0%A4%B0%E0%A4%AA+%E0%A4%B8%E0%A4%BF%E0%A4%82%E0%A4%A1%E0%A4%BF%E0%A4%95%E0%A5%87%E0%A4%9F%3A+%E0%A4%AC%E0%A4%BE%E0%A4%B9%E0%A5%81%E0%A4%AC%E0%A4%B2%E0%A4%BF%E0%A4%AF%E0%A5%8B%E0%A4%82+%E0%A4%B8%E0%A5%87+%E0%A4%95%E0%A4%A8%E0%A5%87%E0%A4%95%E0%A5%8D%E0%A4%B6%E0%A4%A8%21+%E0%A4%A4%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%B0+%E0%A4%B6%E0%A5%81%E0%A4%AD%E0%A4%AE-%E0%A4%85%E0%A4%AE%E0%A4%BF%E0%A4%A4+%E0%A4%95%E0%A5%80+%E0%A4%A7%E0%A4%A8%E0%A4%82%E0%A4%9C%E0%A4%AF+%E0%A4%B8%E0%A4%BF%E0%A4%82%E0%A4%B9%2C+%E0%A4%B8%E0%A5%81%E0%A4%B6%E0%A5%80%E0%A4%B2+%E0%A4%B8%E0%A4%BF%E0%A4%82%E0%A4%B9+%E0%A4%95%E0%A5%87+%E0%A4%B8%E0%A4%BE%E0%A4%A5+%E0%A4%A4%E0%A4%B8%E0%A5%8D%E0%A4%B5%E0%A5%80%E0%A4%B0%E0%A5%87%E0%A4%82+%E0%A4%B5%E0%A4%BE%E0%A4%AF%E0%A4%B0%E0%A4%B2%20via%20@aajtak%20https://intdy.in/u8961i%0D%0A%0D%0ADownload%20the%20Aaj%20Tak%20app%20now%20to%20read%20our%20latest%20stories%0D%0Ahttps://app.aajtak.link/d/o5NdCLWag0 "share on whatsapp")
+[](https://web.whatsapp.com:/send?text=%E0%A4%95%E0%A4%AB+%E0%A4%B8%E0%A4%BF%E0%A4%B0%E0%A4%AA+%E0%A4%B8%E0%A4%BF%E0%A4%82%E0%A4%A1%E0%A4%BF%E0%A4%95%E0%A5%87%E0%A4%9F%3A+%E0%A4%AC%E0%A4%BE%E0%A4%B9%E0%A5%81%E0%A4%AC%E0%A4%B2%E0%A4%BF%E0%A4%AF%E0%A5%8B%E0%A4%82+%E0%A4%B8%E0%A5%87+%E0%A4%95%E0%A4%A8%E0%A5%87%E0%A4%95%E0%A5%8D%E0%A4%B6%E0%A4%A8%21+%E0%A4%A4%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%B0+%E0%A4%B6%E0%A5%81%E0%A4%AD%E0%A4%AE-%E0%A4%85%E0%A4%AE%E0%A4%BF%E0%A4%A4+%E0%A4%95%E0%A5%80+%E0%A4%A7%E0%A4%A8%E0%A4%82%E0%A4%9C%E0%A4%AF+%E0%A4%B8%E0%A4%BF%E0%A4%82%E0%A4%B9%2C+%E0%A4%B8%E0%A5%81%E0%A4%B6%E0%A5%80%E0%A4%B2+%E0%A4%B8%E0%A4%BF%E0%A4%82%E0%A4%B9+%E0%A4%95%E0%A5%87+%E0%A4%B8%E0%A4%BE%E0%A4%A5+%E0%A4%A4%E0%A4%B8%E0%A5%8D%E0%A4%B5%E0%A5%80%E0%A4%B0%E0%A5%87%E0%A4%82+%E0%A4%B5%E0%A4%BE%E0%A4%AF%E0%A4%B0%E0%A4%B2%20via%20@aajtak%20https://intdy.in/u8961i%0D%0A%0D%0ADownload%20the%20Aaj%20Tak%20app%20now%20to%20read%20our%20latest%20stories%0D%0Ahttps://app.aajtak.link/d/o5NdCLWag0 "share on whatsapp")
+### [सबसे तेज़ ख़बरों के लिए आजतक ऐप डाउनलोड करें ](https://app.aajtak.link/d/o5NdCLWag0)
+Advertisement
+Advertisement
+## लेटेस्ट
+  * [ ![श्रीलंका में साइक्लोन दितवा का कहर, बाढ़ और लैंडस्लाइड से 80 से ज्यादा मौतें, 1.5 लाख प्रभावित](https://akm-img-a-in.tosshub.com/aajtak/resource/img/default_98x55.webp?imbypass=1) श्रीलंका में साइक्लोन दितवा का कहर, बाढ़ और लैंडस्लाइड से 80 से ज्यादा मौतें, 1.5 लाख प्रभावित ](https://www.aajtak.in/world/story/sri-lanka-cyclone-storm-ditwah-floods-landslides-india-navy-relief-operation-sagar-bandhu-help-ntc-dskc-2399146-2025-11-29 "श्रीलंका में साइक्लोन दितवा का कहर, बाढ़ और लैंडस्लाइड से 80 से ज्यादा मौतें, 1.5 लाख प्रभावित")
+  * [ ![प्लेन सफर से पहले जरूरी अपडेट... एयरबस फ्लीट में तकनीकी समस्या से देश की 200 से ज्यादा फ्लाइट्स पर सीधा असर](https://akm-img-a-in.tosshub.com/aajtak/resource/img/default_98x55.webp?imbypass=1) प्लेन सफर से पहले जरूरी अपडेट... एयरबस फ्लीट में तकनीकी समस्या से देश की 200 से ज्यादा फ्लाइट्स पर सीधा असर ](https://www.aajtak.in/india/news/story/airbus-a320-flight-control-issue-indigo-air-india-elac-software-fix-delays-cancellations-india-ntc-dskc-2399145-2025-11-29 "प्लेन सफर से पहले जरूरी अपडेट... एयरबस फ्लीट में तकनीकी समस्या से देश की 200 से ज्यादा फ्लाइट्स पर सीधा असर")
+  * [ ![महाराष्ट्र: गोंदिया में 11 नक्सलियों ने किया आत्मसमर्पण, 25 लाख का इनामी विनोद सैयाना भी शामिल ](https://akm-img-a-in.tosshub.com/aajtak/resource/img/default_98x55.webp?imbypass=1) महाराष्ट्र: गोंदिया में 11 नक्सलियों ने किया आत्मसमर्पण, 25 लाख का इनामी विनोद सैयाना भी शामिल  ](https://www.aajtak.in/india/maharashtra/story/gondia-naxal-surrender-darekasa-dalam-vinod-saiyana-ak-47-police-dig-gadchiroli-reward-ntc-dskc-2399144-2025-11-29 "महाराष्ट्र: गोंदिया में 11 नक्सलियों ने किया आत्मसमर्पण, 25 लाख का इनामी विनोद सैयाना भी शामिल ")
+  * [ ![Aaj Ka Panchang, 29 November 2025: जानिए 29 नवंबर 2025, दिन- शनिवार का पंचांग और शुभ मुहूर्त](https://akm-img-a-in.tosshub.com/aajtak/resource/img/default_98x55.webp?imbypass=1) Aaj Ka Panchang, 29 November 2025: जानिए 29 नवंबर 2025, दिन- शनिवार का पंचांग और शुभ मुहूर्त ](https://www.aajtak.in/religion/news/video/aaj-ka-panchang-today-29-november-2025-saturday-shubh-muhurat-tithi-nakshatra-in-hindi-2398752-2025-11-29 "Aaj Ka Panchang, 29 November 2025: जानिए 29 नवंबर 2025, दिन- शनिवार का पंचांग और शुभ मुहूर्त")
+  * [ ![Aaj ka Rashifal 29 November 2025: मेष से लेकर मीन तक, जानें अपना आज का भविष्यफल](https://akm-img-a-in.tosshub.com/aajtak/resource/img/default_98x55.webp?imbypass=1) Aaj ka Rashifal 29 November 2025: मेष से लेकर मीन तक, जानें अपना आज का भविष्यफल ](https://www.aajtak.in/religion/rashiphal/video/aaj-ka-rashifal-29-november-2025-daily-horoscope-today-all-zodiac-signs-in-hindi-saturday-2398750-2025-11-29 "Aaj ka Rashifal 29 November 2025: मेष से लेकर मीन तक, जानें अपना आज का भविष्यफल")
+
+
+Trending News:
+[लव राशिफल](https://www.aajtak.in/religion/rashiphal/story/love-horoscope-today-28-november-2025-aaj-ka-love-rashifal-all-zodiac-signs-predictions-in-hindi-dskc-2397922-2025-11-28 "लव राशिफल")
+[आज का राशिफल](https://www.aajtak.in/religion/rashiphal/story/aaj-ka-rashifal-28-november-2025-mesh-to-meen-shukravaar-rashi-daily-horoscope-today-in-hindi-dskc-2397919-2025-11-27 "आज का राशिफल")
+[करियर राशिफल](https://www.aajtak.in/religion/rashiphal/story/career-rashifal-28-november-2025-career-horoscope-today-zodiac-sign-job-business-predictions-dskc-2397923-2025-11-28 "करियर राशिफल")
+[आर्थिक राशिफल](https://www.aajtak.in/religion/rashiphal/story/arthikrashifal-daily-horoscope-today-28-november-2025-aaj-ka-arthik-rashifal-rashifal-in-hindi-friday-dskc-2397921-2025-11-28 "आर्थिक राशिफल")
+Advertisement
+  * [About us](https://www.indiatodaygroup.com/about-us.php)
+  * [Contact us](https://www.indiatodaygroup.com/contact.php)
+  * [Advertise with us](https://specials.indiatoday.com/specials/popup/advertisewithus.htm)
+  * [Complaint Redressal](https://www.aajtak.in/complain-redressal)
+  * [Investors](https://www.aajtak.in/investor)
+  * [Rate Card](https://www.aajtak.in/rate-card)
+  * [Privacy Policy](https://www.indiatodaygroup.com/privacy-policy.html)
+  * [Terms and Conditions](https://specials.indiatoday.com/common/termsandconditions.phtml)
+  * [Correction Policy](https://www.aajtak.in/fact-check/correction-policy)
+  * [Press Releases](https://www.aajtak.in/prnewswire/prnewswire.html)
+  * [T&Cs for AajTak HD Contest](https://akm-img-a-in.tosshub.com/aajtak/resource/smedia2/AT-HD-Media-Planners-Contest-T%26Cs-TVTN.pdf)
+
+
+Education:
+  * [Vasant Valley](https://www.vasantvalley.org "Vasant  Valley")
+  * [India Today Education](https://www.indiatoday.in/education-today "India Today Education")
+  * [ITMI](https://www.indiatoday.in/itmi/ "ITMI")
+  * [Campus National Aptitude test](https://www.aajtakcampus.in "Aajtak Campus National Aptitude test")
+
+
+Online Shopping:
+  * [India Today Diaries](https://www.indiatodaygroup.com "India Today Diaries")
+
+
+Printing:
+  * [Thomson Press](https://www.thomsonpress.com "Thomson Press")
+
+
+Subscription:
+  * [Cosmopolitan](https://www.cosmopolitan.in "Cosmopolitan")
+  * [Reader's Digest](https://subscriptions.intoday.in/readersdigest?utm_source=rdsubv1 "Reader's Digest")
+  * [Music Today](https://www.musictoday.in "Music Today")
+  * [Time](https://subscriptions.intoday.in/time?utm_source=ATWebsite "Time")
+  * [Gadgets & Gizmos](https://subscriptions.intoday.in "Gadgets & Gizmos")
+
+
+Events:
+  * [Sahitya Aaj Tak](https://www.aajtak.in/sahitya-aajtak/2024 "Sahitya Aaj Tak")
+  * [Agenda Aajtak](https://www.aajtak.in/agenda-aajtak/2024 "Agenda Aajtak")
+  * [India Today Conclave](https://www.indiatodayconclave.com "India Today Conclave")
+  * [India Today Woman's Summit](https://www.indiatoday.in/india-today-woman-summit "India Today Woman's Summit")
+  * [India Today Youth Summit](https://www.indiatoday.in/mind-rocks-2017-delhi "India Today Youth Summit")
+  * [State Of The States Conclave](https://www.indiatoday.in/state-of-the-states/2016 "State Of The States Conclave")
+  * [India Today Education Summit](https://www.indiatoday.in/educationsummit "India Today Education Summit")
+
+
+Welfare:
+  * [Care Today](https://www.caretoday.in "Care Today")
+
+
+Syndication:
+  * [India Content](https://www.indiacontent.in "India Content")
+  * [Headline Today](https://www.headlinestoday.in "Headline Today")
+
+
+  * [India Today](https://www.indiatoday.in "India Today")
+  * [Dailyo](https://www.dailyo.in "Dailyo")
+  * [Ichowk ](https://www.ichowk.in "Ichowk ")
+  * [Archive](https://www.aajtak.in/archive "Archive")
+
+
+  * Download App
+  * [![Aaj Tak Android App](https://akm-img-a-in.tosshub.com/aajtak/resource/img/1x1.png)](https://goo.gl/LhVy5E)
+  * [![Aaj Tak IOS App](https://akm-img-a-in.tosshub.com/aajtak/resource/img/1x1.png)](https://goo.gl/tZ3TJL)
+
+
+  * follow us on
+  * [](https://www.whatsapp.com/channel/0029Va7Rxc32ER6hBAuIL222)
+  * [](https://www.facebook.com/aajtak/)
+  * [](https://x.com/AajTak)
+  * [](https://www.aajtak.in/rssfeeds/?id=home)
+  * [](https://www.youtube.com/channel/UClmlqOOktUTpfW0EkTiqSjQ?sub_confirmation=1)
+
+
+Copyright © 2025 Living Media India Limited. For reprint rights: [Syndications Today](https://www.indiacontent.in)
+Advertisement
+  * [ होम ](https://www.aajtak.in "होम")
+  * [ वीडियो ](https://www.aajtak.in/videos "वीडियो")
+  * [ लाइव टीवी ](https://www.aajtak.in/livetv "लाइव टीवी")
+  * [ न्यूज़ रील ](https://www.aajtak.in/short-videos/video/sports-minister-did-not-announce-anything-after-players-death-ytvd-2398190-2025-11-28 "न्यूज़ रील")
+  * मेन्यू मेन्यू
+
+
+RECOMMENDED
+  * [![मुर्दा रिश्तेदार हो गए 'जिंदा'! 15 करोड़ की जमीन हड़पने की साजिश का खुलासा ](https://akm-img-a-in.tosshub.com/aajtak/resource/smedia2/defaultaajtak.jpg)](https://www.aajtak.in/uttar-pradesh/story/dead-relatives-come-back-to-alive-conspiracy-to-grab-land-worth-rs-15-crore-exposed-in-muzaffarnagar-lclam-strc-2398440-2025-11-28?utm_source=recengine&utm_medium=web&referral=yes&utm_content=footerstrip-1&t_source=recengine&t_medium=web&t_content=footerstrip-1&t_psl=False)
+[मुर्दा रिश्तेदार हो गए 'जिंदा'! 15 करोड़ की जमीन हड़पने की साजिश का खुलासा ](https://www.aajtak.in/uttar-pradesh/story/dead-relatives-come-back-to-alive-conspiracy-to-grab-land-worth-rs-15-crore-exposed-in-muzaffarnagar-lclam-strc-2398440-2025-11-28?utm_source=recengine&utm_medium=web&referral=yes&utm_content=footerstrip-1&t_source=recengine&t_medium=web&t_content=footerstrip-1&t_psl=False)
+RECOMMENDED
+  * [![चित्तौड़गढ़ के युवक ने किया सुसाइड अटेम्प्ट, पिता की 'कैद' से जुड़ी है पूरी कहानी](https://akm-img-a-in.tosshub.com/aajtak/resource/smedia2/defaultaajtak.jpg)](https://www.aajtak.in/rajasthan/story/udaipur-young-man-disturbed-by-a-swiss-businessman-drank-poison-fighting-for-his-life-lcltm-rptc-2398330-2025-11-28?utm_source=recengine&utm_medium=web&referral=yes&utm_content=footerstrip-2&t_source=recengine&t_medium=web&t_content=footerstrip-2&t_psl=False)
+[चित्तौड़गढ़ के युवक ने किया सुसाइड अटेम्प्ट, पिता की 'कैद' से जुड़ी है पूरी कहानी](https://www.aajtak.in/rajasthan/story/udaipur-young-man-disturbed-by-a-swiss-businessman-drank-poison-fighting-for-his-life-lcltm-rptc-2398330-2025-11-28?utm_source=recengine&utm_medium=web&referral=yes&utm_content=footerstrip-2&t_source=recengine&t_medium=web&t_content=footerstrip-2&t_psl=False)
+RECOMMENDED
+  * [![पुतले की अंत्येष्टि करने घाट पर क्यों गया था कारोबारी, सामने आई 50 लाख कर्ज और बीमा वाली थ्योरी](https://akm-img-a-in.tosshub.com/aajtak/resource/smedia2/defaultaajtak.jpg)](https://www.aajtak.in/uttar-pradesh/story/dummy-cremation-insurance-fraud-garhmukteshwar-hapur-lclar-strc-2398131-2025-11-27?utm_source=recengine&utm_medium=web&referral=yes&utm_content=footerstrip-3&t_source=recengine&t_medium=web&t_content=footerstrip-3&t_psl=False)
+[पुतले की अंत्येष्टि करने घाट पर क्यों गया था कारोबारी, सामने आई 50 लाख कर्ज और बीमा वाली थ्योरी](https://www.aajtak.in/uttar-pradesh/story/dummy-cremation-insurance-fraud-garhmukteshwar-hapur-lclar-strc-2398131-2025-11-27?utm_source=recengine&utm_medium=web&referral=yes&utm_content=footerstrip-3&t_source=recengine&t_medium=web&t_content=footerstrip-3&t_psl=False)
+MOST READ
+  * [![वजन कम करने का जापानी तरीका: 12 मिनट में घटा महिला का वेट! जानें तरीका](https://akm-img-a-in.tosshub.com/aajtak/resource/smedia2/defaultaajtak.jpg)](https://www.aajtak.in/lifestyle/news/story/weight-loss-japanese-walking-method-calories-burning-benefits-tvism-dskc-2397877-2025-11-28?utm_source=recengine&utm_medium=web&referral=yes&utm_content=footerstrip-4&t_source=recengine&t_medium=web&t_content=footerstrip-4&t_psl=False)
+[वजन कम करने का जापानी तरीका: 12 मिनट में घटा महिला का वेट! जानें तरीका](https://www.aajtak.in/lifestyle/news/story/weight-loss-japanese-walking-method-calories-burning-benefits-tvism-dskc-2397877-2025-11-28?utm_source=recengine&utm_medium=web&referral=yes&utm_content=footerstrip-4&t_source=recengine&t_medium=web&t_content=footerstrip-4&t_psl=False)
+TRENDING
+  * [![अर्जुन तेंदुलकर ने ईडन में गेंद से मचाया कोहराम, चंडीगढ़ की हालत कर दी टाइट](https://akm-img-a-in.tosshub.com/aajtak/resource/smedia2/defaultaajtak.jpg)](https://www.aajtak.in/sports/cricket/story/arjun-tendulkar-fiery-spell-eden-gardens-stuns-chandigarh-syed-mushtaq-ali-trophy-2025-tspok-dskc-2398965-2025-11-28?utm_source=recengine&utm_medium=web&referral=yes&utm_content=footerstrip-5&t_source=recengine&t_medium=web&t_content=footerstrip-5&t_psl=False)
+[अर्जुन तेंदुलकर ने ईडन में गेंद से मचाया कोहराम, चंडीगढ़ की हालत कर दी टाइट](https://www.aajtak.in/sports/cricket/story/arjun-tendulkar-fiery-spell-eden-gardens-stuns-chandigarh-syed-mushtaq-ali-trophy-2025-tspok-dskc-2398965-2025-11-28?utm_source=recengine&utm_medium=web&referral=yes&utm_content=footerstrip-5&t_source=recengine&t_medium=web&t_content=footerstrip-5&t_psl=False)
+TRENDING
+  * [![स्मृति मंधाना ने शादी टलने के बाद डिलीट की फोटोज, पलक मुच्छल ने किया इमोशनल पोस्ट](https://akm-img-a-in.tosshub.com/aajtak/resource/smedia2/defaultaajtak.jpg)](https://www.aajtak.in/sports/cricket/story/smriti-mandhana-delete-all-wedding-photos-palash-muchhal-palak-reaction-ntcpas-dskc-2395742-2025-11-24?utm_source=recengine&utm_medium=web&referral=yes&utm_content=footerstrip-6&t_source=recengine&t_medium=web&t_content=footerstrip-6&t_psl=False)
+[स्मृति मंधाना ने शादी टलने के बाद डिलीट की फोटोज, पलक मुच्छल ने किया इमोशनल पोस्ट](https://www.aajtak.in/sports/cricket/story/smriti-mandhana-delete-all-wedding-photos-palash-muchhal-palak-reaction-ntcpas-dskc-2395742-2025-11-24?utm_source=recengine&utm_medium=web&referral=yes&utm_content=footerstrip-6&t_source=recengine&t_medium=web&t_content=footerstrip-6&t_psl=False)
+MOST READ
+  * [!['गाय का मांस खिलाया, कलमा पढ़ने का दबाव', महिला ने सुनाई धर्म परिवर्तन की कहानी](https://akm-img-a-in.tosshub.com/aajtak/resource/smedia2/defaultaajtak.jpg)](https://www.aajtak.in/bihar/story/araria-woman-abduction-delhi-conversion-lclar-strc-2398990-2025-11-28?utm_source=recengine&utm_medium=web&referral=yes&utm_content=footerstrip-7&t_source=recengine&t_medium=web&t_content=footerstrip-7&t_psl=False)
+['गाय का मांस खिलाया, कलमा पढ़ने का दबाव', महिला ने सुनाई धर्म परिवर्तन की कहानी](https://www.aajtak.in/bihar/story/araria-woman-abduction-delhi-conversion-lclar-strc-2398990-2025-11-28?utm_source=recengine&utm_medium=web&referral=yes&utm_content=footerstrip-7&t_source=recengine&t_medium=web&t_content=footerstrip-7&t_psl=False)
+TRENDING
+  * [![स्मृति नहीं पलाश ने टाल दी शादी, सिंगर की मां ने बताया संगीत की रात क्या हुआ था?](https://akm-img-a-in.tosshub.com/aajtak/resource/smedia2/defaultaajtak.jpg)](https://www.aajtak.in/entertainment/bollywood-news/story/palash-muchhal-mother-smriti-mandhana-postponed-wedding-father-ill-tmovp-dskc-2396499-2025-11-25?utm_source=recengine&utm_medium=web&referral=yes&utm_content=footerstrip-8&t_source=recengine&t_medium=web&t_content=footerstrip-8&t_psl=False)
+[स्मृति नहीं पलाश ने टाल दी शादी, सिंगर की मां ने बताया संगीत की रात क्या हुआ था?](https://www.aajtak.in/entertainment/bollywood-news/story/palash-muchhal-mother-smriti-mandhana-postponed-wedding-father-ill-tmovp-dskc-2396499-2025-11-25?utm_source=recengine&utm_medium=web&referral=yes&utm_content=footerstrip-8&t_source=recengine&t_medium=web&t_content=footerstrip-8&t_psl=False)
+MOST READ
+  * [![T20 वर्ल्ड कप में रोहित शर्मा को मिली बड़ी ज‍िम्मेदारी, जय शाह ने किया ऐलान](https://akm-img-a-in.tosshub.com/aajtak/resource/smedia2/defaultaajtak.jpg)](https://www.aajtak.in/sports/cricket/story/rohit-sharma-named-t20-world-cup-tournament-ambassador-tspok-dskc-2396491-2025-11-25?utm_source=recengine&utm_medium=web&referral=yes&utm_content=footerstrip-9&t_source=recengine&t_medium=web&t_content=footerstrip-9&t_psl=False)
+[T20 वर्ल्ड कप में रोहित शर्मा को मिली बड़ी ज‍िम्मेदारी, जय शाह ने किया ऐलान](https://www.aajtak.in/sports/cricket/story/rohit-sharma-named-t20-world-cup-tournament-ambassador-tspok-dskc-2396491-2025-11-25?utm_source=recengine&utm_medium=web&referral=yes&utm_content=footerstrip-9&t_source=recengine&t_medium=web&t_content=footerstrip-9&t_psl=False)
+MOST READ
+  * [![G20 की बेइज्जती नहीं भूले ट्रंप, फिर फूटा गुस्सा, साउथ अफ्रीका को दिया बड़ा झटका](https://akm-img-a-in.tosshub.com/aajtak/resource/smedia2/defaultaajtak.jpg)](https://www.aajtak.in/world/story/donald-trump-south-africa-relation-us-g20-summit-in-america-ramaphosa-ntc-dskc-2399070-2025-11-28?utm_source=recengine&utm_medium=web&referral=yes&utm_content=footerstrip-10&t_source=recengine&t_medium=web&t_content=footerstrip-10&t_psl=False)
+[G20 की बेइज्जती नहीं भूले ट्रंप, फिर फूटा गुस्सा, साउथ अफ्रीका को दिया बड़ा झटका](https://www.aajtak.in/world/story/donald-trump-south-africa-relation-us-g20-summit-in-america-ramaphosa-ntc-dskc-2399070-2025-11-28?utm_source=recengine&utm_medium=web&referral=yes&utm_content=footerstrip-10&t_source=recengine&t_medium=web&t_content=footerstrip-10&t_psl=False)
+TRENDING
+
+
